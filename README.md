@@ -31,7 +31,7 @@ The analysis will not:
 - Include in-depth analysis of complex social or cultural dynamics in the city. I will focus on basic amenities and housing prices.
 - Include other cities than Paris, Montreal, Toronto, Ottawa, Quebec city.
 
-- ## Tools
+## Tools
 
 **Data Access and Web Scraping**
 - Beautiful Soup & Requests: to access external data via web scraping and http requests
