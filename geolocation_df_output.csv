@@ -1,0 +1,660 @@
+Postalcode,Borough,Neighborhood,City,City1,City2,Latitude,Longitude,IsDuplicate
+G1A,Quebec Provincial Government,Quebec Provincial Government,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.80931462700005,-71.21302299299998,False
+G2A,North Loretteville,North Loretteville,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.88075997200008,-71.39855454899998,False
+G3A,Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.755496796000045,-71.49019749199994,False
+G4A,Clermont,Clermont,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.690608000000054,-70.21937799999995,False
+G5A,La Malbaie,La Malbaie,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.65694400000007,-70.15138899999994,False
+G6A,Saint-Georges,Saint-Georges Northwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.12271400000003,-70.67015099999998,True
+G7A,Lévis,Lévis South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.699333,-71.301231,False
+G8A,Saguenay,West Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G9A,Trois-Rivières,Trois-Rivières East,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G1B,Beauport North,Beauport North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.92135873600006,-71.21336529899997,False
+G2B,Loretteville South,Loretteville South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.84203630500008,-71.35761041399996,False
+G3B,Lac-Beauport,Lac-Beauport,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.97851616000003,-71.28444269299996,False
+G5B,Port-Cartier,Port-Cartier,Quebec City,"Quebec City, Quebec","Quebec City, QC",50.021131000000025,-66.87629299999998,False
+G6B,Lac-Mégantic,Frontenac,Quebec City,"Quebec City, Quebec","Quebec City, QC",45.59446900000006,-70.91038599999996,False
+G7B,Saguenay,La Baie,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8B,Alma,Alma Southeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G9B,Trois-Rivières,Trois-Rivières South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G1C,Central Beauport,Central Beauport,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.88576213500005,-71.19768057399995,False
+G2C,Quebec City Northwest,Quebec City Northwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.83323970600003,-71.33179647699995,False
+G3C,Stoneham-et-Tewkesbury,Lac-Delage,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.03326749200005,-71.36704002099998,False
+G5C,Baie-Comeau,Baie-Comeau Southwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",49.22131600000006,-68.15030299999995,True
+G6C,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G8C,Alma,Alma Southwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G9C,Trois-Rivières,Trois-Rivières West North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G1E,Beauport South,Beauport South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.86116888600003,-71.19272504199995,False
+G2E,L'Ancienne-Lorette,L'Ancienne-Lorette,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.80730672200008,-71.35744980999993,False
+G3E,Saint-Émile,Saint-Émile,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.87734345600006,-71.33409803299998,False
+G6E,Sainte-Marie,Sainte-Marie,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.43834000000004,-71.02132599999999,False
+G8E,Alma,Alma North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G1G,Charlesbourg  Orsainville,Charlesbourg  Orsainville,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.87777977800005,-71.28417983099996,False
+G2G,L'Ancienne-Lorette & co,"L'Ancienne-Lorette, YQB",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.79019834600007,-71.41213412399998,False
+G3G,Lac-Saint-Charles,Lac-Saint-Charles,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.92269453100005,-71.39083056299995,False
+G6G,Thetford Mines,Saint-Jean-de-Brébeuf,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.08902800000004,-71.30198699999994,True
+G7G,Saguenay,North Chicoutimi,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8G,Métabetchouan–Lac-à-la-Croix,Métabetchouan–Lac-à-la-Croix,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.42970794100006,-71.85662215399998,False
+G1H,South Charlesbourg,South Charlesbourg,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.85305238700005,-71.25718162399994,False
+G3H,Pont-Rouge,Pont-Rouge,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.883102,-72.084679,False
+G5H,Mont-Joli,Saint-Joseph-de-Lepage,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.58546800000005,-68.18962899999997,False
+G6H,Thetford Mines,Irlande,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.08902800000004,-71.30198699999994,True
+G7H,Saguenay,East Chicoutimi,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8H,Roberval,Roberval,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.52118000000007,-72.26780999999994,False
+G9H,Bécancour,Bécancour,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34106000000003,-72.43223999999998,False
+G1J,Lower Riverbank,Lower Riverbank,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.83581260700004,-71.21804772799999,False
+G2J,Inner North,Inner North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.841295080000066,-71.27916876199998,False
+G3J,Val-Bélair North,Val-Bélair North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.85757088100007,-71.47370552999996,False
+G5J,Amqui,Amqui,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G6J,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G7J,Saguenay,Chicoutimi West,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8J,Saint-Prime,La Doré,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.59242000000006,-72.33554999999996,False
+G1K,Notre-Dame-des-Anges,Notre-Dame-des-Anges,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.79721475400004,-71.22124997499998,False
+G2K,Outer North,Outer North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.84810430600004,-71.30267785199999,False
+G3K,South Val-Bélair,South Val-Bélair,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.83028513600004,-71.44534944599997,False
+G6K,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G7K,Saguenay,Southwest Chicoutimi,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8K,Saint-Félicien,Saint-Félicien,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.657771000000025,-72.45097899999996,False
+G1L,Quebec City Northeast,Quebec City Northeast South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.83049099600004,-71.24320141399994,False
+G2L,Charlesbourg  Bourg-Royal,Charlesbourg  Bourg-Royal,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.89731899800006,-71.25669302199998,False
+G3L,Saint-Raymond,Saint-Raymond,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.89141200000006,-71.83264599999995,False
+G5L,Rimouski,Rimouski Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.44922800000006,-68.52525899999995,True
+G6L,Plessisville,Princeville,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.219445000000064,-71.77213499999993,False
+G8L,Dolbeau-Mistassini,Saint-Stanislas,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.88262400000008,-72.23338099999995,False
+G1M,North Central,North Central North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.82439100000005,-71.25270099999994,False
+G2M,Quebec City Northeast,Quebec City Northeast North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.91809124500003,-71.30859262599995,False
+G3M,Donnacona,Donnacona,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.67266700000005,-71.73724999999996,False
+G5M,Rimouski,Rimouski Northeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.44922800000006,-68.52525899999995,True
+G8M,Normandin,Albanel,Quebec City,"Quebec City, Quebec","Quebec City, QC",49.39878691681266,0.2476695881292606,False
+G1N,South Central,South Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.802781681000056,-71.26598115599995,False
+G2N,Quebec City West,Quebec City West North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.91302856900006,-71.33953045699997,False
+G3N,Sainte-Catherine-de-la-Jacques-Cartier,"Fossambault-sur-le-Lac, Lac-Saint-Joseph",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.84445200000005,-71.61522599999995,False
+G5N,Rimouski,Rimouski Southwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.44922800000006,-68.52525899999995,True
+G7N,Saguenay,Laterrière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8N,Hébertville,Hébertville,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.394205000000056,-71.67745099999996,False
+G9N,Shawinigan,Shawinigan Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.55324000000007,-72.75034699999998,True
+G1P,Quebec City West,Quebec City West South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.791090000000054,-71.29249999999996,False
+G6P,Victoriaville,Victoriaville Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.054955000000064,-71.96020599999997,True
+G7P,Saint-Ambroise,Saint-Ambroise,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.55955200000005,-71.32398399999994,False
+G8P,Chibougamau,Chibougamau,Quebec City,"Quebec City, Quebec","Quebec City, QC",49.81378119500005,-74.34848943299994,False
+G9P,Shawinigan,Shawinigan Southeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.55324000000007,-72.75034699999998,True
+G1R,Saint-Louis-de-Gonzague-du-Cap-Tourmente,Saint-Louis-de-Gonzague-du-Cap-Tourmente,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.810830511064665,-71.21501399726375,False
+G4R,Sept-Îles,"Maliotenam, Uashat",Quebec City,"Quebec City, Quebec","Quebec City, QC",50.20984600000003,-66.38522399999994,True
+G5R,Rivière-du-Loup,Rivière-du-Loup,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.82074000000006,-69.55178999999998,False
+G6R,Victoriaville,Saint-Christophe-d'Arthabaska,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.054955000000064,-71.96020599999997,True
+G9R,Shawinigan,Shawinigan Northwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.55324000000007,-72.75034699999998,True
+G1S,Quebec City South,Quebec City South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.792369894000046,-71.24526610899994,False
+G3S,Shannon,Shannon,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.88026000000008,-71.51463999999999,False
+G4S,Sept-Îles,Sept-Îles Northwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",50.20984600000003,-66.38522399999994,True
+G6S,Victoriaville,Victoriaville East,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.054955000000064,-71.96020599999997,True
+G7S,Saguenay,Northeast Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G1T,Upper Riverbank,Upper Riverbank,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.77353206200007,-71.25925699799996,False
+G4T,Les Îles-de-la-Madeleine,Grosse-Île,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.24984236900008,-61.92138188699994,False
+G5T,Dégelis,Dégelis,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.543941000000075,-68.64672699999994,False
+G6T,Victoriaville,Victoriaville Northwest,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.054955000000064,-71.96020599999997,True
+G7T,Saguenay,Southeast Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8T,Trois-Rivières,Central and southeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G9T,Shawinigan,Grand-Mère,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.55324000000007,-72.75034699999998,True
+G1V,Northeast Sainte-Foy,Northeast Sainte-Foy,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.780029365000075,-71.28553315099998,False
+G4V,Sainte-Anne-des-Monts,Sainte-Anne-des-Monts,Quebec City,"Quebec City, Quebec","Quebec City, QC",49.126333000000045,-66.48411399999998,False
+G5V,Montmagny,Montmagny,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.980151000000035,-70.55662199999995,False
+G6V,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G8V,Trois-Rivières,Trois-Rivières Northeast North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G1W,Southeast Sainte-Foy,Southeast Sainte-Foy,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.756274896000036,-71.29923327399996,False
+G4W,Matane,Matane,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G6W,Lévis,Lévis South,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.75442671400003,-71.21841043699999,False
+G8W,Trois-Rivières,Trois-Rivières West North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G1X,West Sainte-Foy,West Sainte-Foy,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.77470178000004,-71.33260888999996,False
+G4X,Gaspé,Gaspé,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G5X,Beauceville,Beauceville,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.209284000000025,-70.77879599999994,False
+G6X,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G7X,Saguenay,Central Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G9X,La Tuque,La Bostonnais,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.43778000000003,-72.78059299999995,False
+G1Y,Cap-Rouge,Cap-Rouge,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.75066300000003,-71.35559144899997,False
+G5Y,Saint-Georges,Saint-Georges Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.12271400000003,-70.67015099999998,True
+G6Y,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G7Y,Saguenay,Southwest Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8Y,Trois-Rivières,Trois-Rivières Central,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G3Z,Baie-Saint-Paul,Baie-Saint-Paul,Quebec City,"Quebec City, Quebec","Quebec City, QC",47.44249200000007,-70.50582299999996,False
+G4Z,Baie-Comeau,Baie-Comeau Northeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",49.22131600000006,-68.15030299999995,True
+G5Z,Saint-Georges,Saint-Georges Southeast,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.12271400000003,-70.67015099999998,True
+G6Z,Lévis,Lévis North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G7Z,Saguenay,Northwest Jonquière,Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G8Z,Trois-Rivières,Trois-Rivières Northeast North,Quebec City,"Quebec City, Quebec","Quebec City, QC",46.34311100000008,-72.54331999999994,True
+G0A,Sainte-Christine-d'Auvergne,"Beaupré, Boischatel, Cap-Santé, Château-Richer, Deschambault-Grondines, Deschambault-Grondines, L'Isle-aux-Coudres, L'Isle-aux-Coudres, Lac-Sergent, L'Ange-Gardien, Petite-Rivière-Saint-François, Les Éboulements, Neuville, Portneuf, Rivière-à-Pierre, Saint-Alban, Sainte-Anne-de-Beaupré, Saint-Basile, L'Isle-aux-Coudres, Sainte-Brigitte-de-Laval, Saint-Casimir, Sainte-Famille-de-l'Île-d'Orléans, Saint-Ferréol-les-Neiges, Saint-François-de-l'Île-d'Orléans, Saint-Gilbert, Saint-Hilarion, Saint-Jean-de-l'Île-d'Orléans, Saint-Joachim, Les Éboulements, Saint-Laurent-de-l'Île-d'Orléans, Saint-Léonard-de-Portneuf, Saint-Marc-des-Carrières, Sainte-Pétronille, Saint-Pierre-de-l'Île-d'Orléans, Saint-Thuribe, Saint-Tite-des-Caps, Saint-Urbain, Saint-Ubalde, Saint-Gabriel-de-Valcartier, Wendake, Saint-Gabriel-de-Valcartier, CFB Valcartier",Quebec City,"Quebec City, Quebec","Quebec City, QC",47.27845156300003,-71.30273536399994,False
+G0C,Percé,"New Richmond, Bonaventure, Percé, Caplan, Carleton-sur-Mer, Chandler, Pointe-à-la-Croix, Escuminac, Port-Daniel–Gascons, Cascapédia–Saint-Jules, Grande-Rivière, Grande-Rivière, Pointe-à-la-Croix, Maria, Gesgapegiag, New Carlisle, Chandler, New Richmond, Nouvelle, Nouvelle, Chandler, Chandler, Paspébiac, Hope, Percé, Escuminac, Port-Daniel–Gascons, Listuguj, Saint-Alphonse, Saint-Elzéar, Percé, Hope, Carleton-sur-Mer, Saint-Siméon, Sainte-Thérèse-de-Gaspé, Saint-Godefroi, Hope Town, Shigawake, Percé",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G0E,La Martre,"Cloridorme, Grande-Vallée, Saint-Maxime-du-Mont-Louis, Sainte-Madeleine-de-la-Rivière-Madeleine, Sainte-Madeleine-de-la-Rivière-Madeleine, Marsoui, Saint-Maxime-du-Mont-Louis, Mont-Saint-Pierre, Murdochville, Petite-Vallée, Rivière-à-Claude, Sainte-Madeleine-de-la-Rivière-Madeleine, Rivière-à-Claude, Saint-Maxime-du-Mont-Louis, La Martre",Quebec City,"Quebec City, Quebec","Quebec City, QC",49.13391000000007,-66.18442999999996,False
+G0G,Aguanish,"Baie-Johan-Beetz, Blanc-Sablon, Blanc-Sablon, Côte-Nord-du-Golfe-du-Saint-Laurent, Sept-Îles, Fermont, Sept-Îles, La Romaine, Côte-Nord-du-Golfe-du-Saint-Laurent, Havre-Saint-Pierre, Aguanish, Côte-Nord-du-Golfe-du-Saint-Laurent, Gros-Mécatina, Longue-Pointe-de-Mingan, Blanc-Sablon, Rivière-Saint-Jean, Bonne-Espérance, Sept-Îles, Gros-Mécatina, Nutashkuan, Natashquan, Bonne-Espérance, Rivière-au-Tonnerre, Rivière-Saint-Jean, Bonne-Espérance, Saint-Augustin, Matimekosh, Schefferville, Rivière-au-Tonnette, Côte-Nord-du-Golfe-du-Saint-Laurent, L'Île-d'Anticosti, Kawawachikamach",Quebec City,"Quebec City, Quebec","Quebec City, QC",50.32615000000004,-62.30758999999995,False
+G0H,Baie-Trinité,"Pessamit, Chute-aux-Outardes, Franquelin, Godbout, Pointe-aux-Outardes, Pointe-Lebel, Colombier, Port-Cartier, Ragueneau",Quebec City,"Quebec City, Quebec","Quebec City, QC",49.46439000000004,-67.35349999999994,False
+G0J,Albertville,"Baie-des-Sables, Cap-Chat, Cap-Chat, Cap-Chat, Causapscal, Grosses-Roches, Lac-au-Saumon, Saint-Zénon-du-Lac-Humqui, La Rédemption, L'Ascension-de-Patapédia, Métis-sur-Mer, Les Méchins, Matapédia, Ristigouche-Sud-Est, Padoue, Price, Grand-Métis, Routhierville, Saint-Adelme, Saint-Alexandre-des-Lacs, Saint-Alexis-de-Matapédia, Saint-André-de-Restigouche, Sainte-Angèle-de-Mérici, Saint-Damase, Sainte-Félicité, Sainte-Flavie, Sainte-Florence, Saint-François-d'Assise, Sainte-Irène, Saint-Jean-de-Cherbourg, Sainte-Jeanne-d'Arc, Saint-Léandre, Saint-Léon-le-Grand, Sainte-Marguerite-Marie, Saint-Moïse, Saint-Noël, Saint-Octave-de-Métis, Sainte-Paule, Saint-René-de-Matane, Saint-Tharcisius, Saint-Ulric, Saint-Vianney, Sayabec, Val-Brillant, Saint-Cléophas",Quebec City,"Quebec City, Quebec","Quebec City, QC",48.32226000000003,-67.36929999999995,False
+G0K,Esprit-Saint,"La Trinité-des-Monts, Les Hauteurs, Saint-Anaclet-de-Lessard, Saint-Charles-Garnier, Saint-Donat, Saint-Gabriel-de-Rimouski, Sainte-Luce, Saint-Marcellin, Saint-Narcisse-de-Rimouski, Biencourt, Lac-des-Aigles, Lac-des-Aigles",Quebec City,"Quebec City, Quebec","Quebec City, QC",48.04756000000003,-68.53232999999994,False
+G0L,Auclair,"Rimouski, Témiscouata-sur-le-Lac, Cacouna, Pohénégamook, L'Isle-Verte, Notre-Dame-des-Sept-Douleurs, L'Isle-Verte, Kamouraska, Saint-Eugène-de-Ladrière, Lejeune, Saint-Marc-du-Lac-Long, Saint-Juste-du-Lac, Mont-Carmel, Témiscouata-sur-le-Lac, Notre-Dame-du-Portage, Packington, Rivière-Bleue, Rivière-Ouelle, Notre-Dame-des-Neiges, Saint-Alexandre-de-Kamouraska, Saint-André-de-Kamouraska, Saint-Antonin, Saint-Arsène, Saint-Athanase, Saint-Bruno-de-Kamouraska, Saint-Clément, Saint-Cyprien, Saint-Denis-De La Bouteillerie, Saint-Éloi, Saint-Elzéar-de-Témiscouata, Saint-Épiphane, Saint-Eusèbe, Saint-Fabien, Sainte-Françoise, Saint-François-Xavier-de-Viger, Saint-Gabriel-Lalemant, Saint-Germain-de-Kamouraska, Sainte-Hélène-de-Kamouraska, Saint-Honoré-de-Temiscouata, Saint-Hubert-de-Rivière-du-Loup, Saint-Jean-de-Dieu, Saint-Jean-de-la-Lande, Saint-Joseph-de-Kamouraska, Saint-Juste-du-Lac, Saint-Louis-du-Ha! Ha!, Saint-Mathieu-de-Rioux, Saint-Médard, Saint-Modeste, Saint-Pacôme, Saint-Pascal, Saint-Paul-de-la-Croix, Saint-Philippe-de-Néri, Saint-Pierre-de-Lamy, Saint-Simon-de-Rimouski, Saint-Valérien, Sainte-Rita, Saint-Michel-du-Squatec, Trois-Pistoles",Quebec City,"Quebec City, Quebec","Quebec City, QC",47.740920000000074,-68.65591999999998,False
+G0M,Saint-Martin,"Courcelles-Saint-Évariste, La Guadeloupe, Saint-Hilaire-de-Dorset, Lambton, Saint-Côme–Linière, Notre-Dame-des-Pins, Saint-Simon-les-Mines, Saint-Alfred, Sainte-Aurélie, Saint-Benjamin, Saint-Benoît-Labre, Lac-Poulin, Saint-Éphrem-de-Beauce, Courcelles-Saint-Évariste, Saint-Gédéon-de-Beauce, Saint-Honoré-de-Shenley, Saint-Ludger, Saint-Philibert, Saint-Prosper, Saint-René, Saint-Théophile, Saint-Victor, Saint-Zacharie, Saint-Robert-Bellarmin",Quebec City,"Quebec City, Quebec","Quebec City, QC",45.966770000000054,-70.64902999999998,False
+G0N,Saint-Joseph-de-Coleraine,"Saint-Julien, Sainte-Clotilde-de-Beauce, Disraeli, Sainte-Praxède, Saint-Jacques-le-Majeur-de-Wolfestown, Sacré-Cœur-de-Jésus, East Broughton, Saint-Jacques-de-Leeds, Kinnear's Mills, Saint-Adrien-d'Irlande, Saint-Ferdinand, Saint-Frédéric, Saint-Jules, Adstock, Saint-Pierre-de-Broughton, Saint-Séverin, Tring-Jonction",Quebec City,"Quebec City, Quebec","Quebec City, QC",45.966770000000054,-71.36576999999994,False
+G0P,Ham-Nord,"Saints-Martyrs-Canadiens, Saint-Norbert-d'Arthabaska, Notre-Dame-de-Ham, Saint-Fortunat, Sainte-Hélène-de-Chester, Chesterville, Saint-Pierre-Baptiste, Sainte-Sophie-d'Halifax, Saint-Valère",Quebec City,"Quebec City, Quebec","Quebec City, QC",45.90007000000003,-71.64908999999994,False
+G0R,Armagh,"Saint-Cyprien, Beaumont, Berthier-sur-Mer, Notre-Dame-Auxiliatrice-de-Buckland, Cap-Saint-Ignace, Saint-Luc-de-Bellechasse, Frampton, Honfleur, Saint-Antoine-de-l'Isle-aux-Grues, Lac-Etchemin, Lac-Frontière, La Durantaye, L'Islet, Sainte-Justine, La Pocatière, Sainte-Anne-de-la-Pocatière, L'Islet, L'Islet, Notre-Dame-du-Rosaire, Saint-Fabien-de-Panet, Saint-Louis-de-Gonzague, Saint-Adalbert, Saint-Anselme, Sainte-Apolline-de-Patton, Saint-Aubert, Saint-Camille-de-Lellis, Saint-Charles-de-Bellechasse, Sainte-Claire, Saint-Cyrille-de-Lessard, Saint-Damase-de-L'Islet, Saint-Damien-de-Buckland, Sainte-Euphémie-sur-Rivière-du-Sud, Saint-François-de-la-Rivière-du-Sud, Saint-Gervais, Saint-Henri, Saint-Jean-Port-Joli, Saint-Just-de-Bretenières, Saint-Lazare-de-Bellechasse, Sainte-Louise, Sainte-Lucie-de-Beauregard, Saint-Magloire, Saint-Malachie, Saint-Marcel, Saint-Michel-de-Bellechasse, Saint-Nazaire-de-Dorchester, Saint-Nérée-de-Bellechasse, Saint-Onésime-d'Ixworth, Saint-Pamphile, Saint-Paul-de-Montminy, Sainte-Perpétue, Saint-Philémon, Saint-Pierre-de-la-Rivière-du-Sud, Saint-Raphaël, Saint-Roch-des-Aulnaies, Sainte-Rose-de-Watford, Sainte-Sabine, Saint-Vallier, Saint-Léon-de-Standon, Tourville, Sainte-Felicité, Saint-Omer",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.746830000000045,-70.57575999999995,False
+G0S,Saint-Patrice-de-Beaurivage,"Deschaillons-sur-Saint-Laurent, Dosquet, Fortierville, Inverness, Notre-Dame-du-Sacré-Cœur-d'Issoudun, Saint-Janvier-de-Joly, Laurier-Station, Laurierville, Lotbinière, Notre-Dame-de-Lourdes, Lyster, Saint-Narcisse-de-Beaurivage, Parisville, Saint-Édouard-de-Lotbinière, Saint-Agapit, Sainte-Agathe-de-Lotbinière, Saint-Antoine-de-Tilly, Saint-Apollinaire, Saint-Bernard, Sainte-Croix, Saint-Elzéar, Leclercville, Saint-Flavien, Sainte-Françoise, Saint-Gilles, Sainte-Hénédine, Saint-Isidore, Saint-Joseph-de-Beauce, Saint-Joseph-des-Érables, Saint-Lambert-de-Lauzon, Sainte-Marguerite, Saint-Odilon-de-Cranbourne, Saint-Sylvestre, Saints-Anges, Scott, Val-Alain, Vallée-Jonction, Villeroy",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.42252000000008,-71.26051999999999,False
+G0T,Baie-Sainte-Catherine,"Forestville, Les-Bergeronnes, Les Escoumins, Notre-Dame-des-Monts, Portneuf-sur-Mer, Saint-Aimé-des-Lacs, Saint-Irénée, Saint-Siméon, Sacré-Coeur, Longue-Rive, Tadoussac",Quebec City,"Quebec City, Quebec","Quebec City, QC",48.061690000000056,-69.78634999999997,False
+G0V,Saguenay,"Bégin, Saint-David-de-Falardeau, Saint-Charles-de-Bourget, Ferland-et-Boilleau, L'Anse-Saint-Jean, Saint-Honoré, Saint-Félix-d'Otis, Petit-Saguenay, Rivière-Éternité, Saint-Fulgence, Sainte-Rose-du-Nord",Quebec City,"Quebec City, Quebec","Quebec City, QC",48.37224865500008,-71.13058857099998,True
+G0W,Saint-Eugène-d'Argentenay,"Notre-Dame-de-Lorette, Mistissini, Sainte-Jeanne-d'Arc, Chambord, Chapais, Saint-Augustin, Saint-François-de-Sales, Desbiens, Saint-Thomas-Didyme, Girardville, Hébertville-Station, Lac-Bouchette, Lamarche, L'Ascension-de-Notre-Seigneur, Larouche, Saint-Ludger-de-Milot, Péribonka, Mashteuiatsh, Saint-André-du-Lac-Saint-Jean, Saint-Bruno, Saint-Edmond-les-Plaines, Saint-Gédéon, Sainte-Hedwidge, Labrecque, Sainte-Monique, Saint-Nazaire, Saint-Henri-de-Taillon, Obedjiwan, Oujé-Bougoumou",Quebec City,"Quebec City, Quebec","Quebec City, QC",48.97803000000005,-72.29185999999999,False
+G0X,Batiscan,"Wôlinak, Champlain, Charette, Grandes-Piles, Hérouxville, Shawinigan, Lac-aux-Sables, Saint-Mathieu-du-Parc, La Tuque, Lemieux, Manseau, Notre-Dame-de-Montauban, Saint-Séverin, Trois-Rives, Saint-Roch-de-Mékinac, Saint-Adelphe, Sainte-Anne-de-la-Pérade, Saint-Barnabé, Saint-Boniface, Sainte-Cécile-de-Lévrard, Saint-Élie-de-Caxton, Saint-Étienne-des-Grès, Sainte-Geneviève-de-Batiscan, Shawinigan, Sainte-Marie-de-Blandford, Saint-Maurice, Saint-Narcisse, Saint-Pierre-les-Becquets, Saint-Prosper-de-Champlain, Saint-Sévère, Sainte-Sophie-de-Lévrard, Saint-Stanislas, Sainte-Thècle, Saint-Tite, Notre-Dame-du-Mont-Carmel, Saint-Luc-de-Vincennes, Yamachiche, La Tuque, Lac-Édouard, La Tuque, Wemotaci",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.81389200000007,-71.20807399999995,False
+G0Y,Audet,"Beaulac-Garthby, Lac-Drolet, Milan, Val-Racine, Nantes, Marston, Piopolis, Sainte-Cécile-de-Whitton, Saint-Romain, Saint-Sébastien, Stornoway, Stratford, Saint-Augustin-de-Woburn",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.812280000000044,-71.21453999999994,True
+G0Z,Aston-Jonction,"Saint-Louis-de-Blandford, Daveluyville, Maddington Falls, Sainte-Eulalie, Saint-Samuel, Saint-Sylvère, Saint-Wenceslas, Saint-Rosaire",Quebec City,"Quebec City, Quebec","Quebec City, QC",46.16896000000003,-72.23319999999995,False
+H1A,Pointe-aux-Trembles,Pointe-aux-Trembles,Montreal,"Montreal, Quebec","Montreal, QC",45.674596446000066,-73.50285749299996,False
+H2A,Saint-Michel,Saint-Michel South,Montreal,"Montreal, Quebec","Montreal, QC",45.56186119600005,-73.59918477299993,False
+H3A,Downtown & co,"Downtown, McGill University",Montreal,"Montreal, Quebec","Montreal, QC",45.50534869300003,-73.57705756099995,False
+H4A,Notre-Dame-de-Grâce,Notre-Dame-de-Grâce North,Montreal,"Montreal, Quebec","Montreal, QC",45.47249392100008,-73.61540714799997,False
+H5A,Place Bonaventure,Place Bonaventure,Montreal,"Montreal, Quebec","Montreal, QC",45.49972350100006,-73.56528667399994,False
+H7A,Laval,East Duvernay,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9A,Dollard-des-Ormeaux,Dollard-des-Ormeaux Northwest,Montreal,"Montreal, Quebec","Montreal, QC",45.494774172000064,-73.83174628899997,False
+H1B,Montréal-Est,Montréal-Est,Montreal,"Montreal, Quebec","Montreal, QC",45.63540765400006,-73.52024390399998,False
+H2B,Sault-au-Récollet,Sault-au-Récollet,Montreal,"Montreal, Quebec","Montreal, QC",45.57414516000006,-73.65090614399998,False
+H3B,Downtown,Downtown East,Montreal,"Montreal, Quebec","Montreal, QC",45.50073373300006,-73.56878818999996,False
+H4B,Notre-Dame-de-Grâce,Notre-Dame-de-Grâce South,Montreal,"Montreal, Quebec","Montreal, QC",45.46077172200006,-73.63145507499996,False
+H5B,Complexe Desjardins,Complexe Desjardins,Montreal,"Montreal, Quebec","Montreal, QC",45.50773384100006,-73.56411099599995,False
+H7B,Laval,Saint-François,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9B,Dollard-des-Ormeaux,Dollard-des-Ormeaux East,Montreal,"Montreal, Quebec","Montreal, QC",45.49042444100007,-73.79941438099996,False
+H1C,Rivière-des-Prairies,Rivière-des-Prairies North,Montreal,"Montreal, Quebec","Montreal, QC",45.660298743000055,-73.53890467199994,False
+H2C,Ahuntsic,Ahuntsic North,Montreal,"Montreal, Quebec","Montreal, QC",45.56060242700005,-73.65887346999995,False
+H3C,Griffintown & co,"Griffintown, Île Notre-Dame, Île Sainte-Hélène",Montreal,"Montreal, Quebec","Montreal, QC",45.494912690000035,-73.55509539399998,False
+H4C,Saint-Henri,Saint-Henri,Montreal,"Montreal, Quebec","Montreal, QC",45.47406567000007,-73.58977973299994,False
+H7C,Laval,Saint-Vincent-de-Paul,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9C,L'Île-Bizard,L'Île-Bizard North,Montreal,"Montreal, Quebec","Montreal, QC",45.50532959100008,-73.87915850299999,False
+H1E,Rivière-des-Prairies,Rivière-des-Prairies South,Montreal,"Montreal, Quebec","Montreal, QC",45.636743575000025,-73.58336097899996,False
+H2E,Villeray,Villeray North,Montreal,"Montreal, Quebec","Montreal, QC",45.55124366700005,-73.61193254399996,False
+H3E,L'Île-Des-Soeurs,L'Île-Des-Soeurs,Montreal,"Montreal, Quebec","Montreal, QC",45.460328220000065,-73.54814991299997,False
+H4E,Ville Émard,Ville Émard,Montreal,"Montreal, Quebec","Montreal, QC",45.454875138000034,-73.59493478699994,False
+H7E,Laval,Duvernay,Montreal,"Montreal, Quebec","Montreal, QC",45.614108456000054,-73.68296295499994,False
+H9E,L'Île-Bizard,L'Île-Bizard South,Montreal,"Montreal, Quebec","Montreal, QC",45.48633227300007,-73.90957780399998,False
+H1G,Montréal-Nord,Montréal-Nord North,Montreal,"Montreal, Quebec","Montreal, QC",45.61230339100007,-73.62097666199998,False
+H2G,Petite-Patrie,Petite-Patrie North,Montreal,"Montreal, Quebec","Montreal, QC",45.54363677200007,-73.59309451399997,False
+H3G,Downtown & co,"Downtown, Concordia University",Montreal,"Montreal, Quebec","Montreal, QC",45.499386798000046,-73.58025911599998,False
+H4G,Verdun,Verdun North,Montreal,"Montreal, Quebec","Montreal, QC",45.46455251900005,-73.56946259899996,False
+H7G,Laval,Pont-Viau,Montreal,"Montreal, Quebec","Montreal, QC",45.57867424900007,-73.68650336499996,False
+H9G,Dollard-des-Ormeaux,Dollard-des-Ormeaux Southwest,Montreal,"Montreal, Quebec","Montreal, QC",45.47553841600006,-73.83697711199994,False
+H0H,Santa Claus,Reserved0H0:Santa Claus,Montreal,"Montreal, Quebec","Montreal, QC",45.508867000000066,-73.55424199999999,False
+H1H,Montréal-Nord,Montréal-Nord South,Montreal,"Montreal, Quebec","Montreal, QC",45.59000591700004,-73.63911966299997,False
+H2H,Plateau Mont-Royal,Plateau Mont-Royal North,Montreal,"Montreal, Quebec","Montreal, QC",45.53715164300007,-73.57313611199999,False
+H3H,Downtown,Downtown Center,Montreal,"Montreal, Quebec","Montreal, QC",45.49270861300005,-73.58238565999994,False
+H4H,Verdun,Verdun South,Montreal,"Montreal, Quebec","Montreal, QC",45.44564135300004,-73.58092066899997,False
+H7H,Laval,West Auteuil,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9H,Pierrefonds & co,"Pierrefonds, Sainte-Geneviève",Montreal,"Montreal, Quebec","Montreal, QC",45.46043452400005,-73.85574018599993,False
+H1J,Anjou,Anjou North,Montreal,"Montreal, Quebec","Montreal, QC",45.61595906000008,-73.57336117599993,False
+H2J,Plateau Mont-Royal,Plateau Mont-Royal Center 1,Montreal,"Montreal, Quebec","Montreal, QC",45.52982136800006,-73.58290003599996,False
+H3J,Petite-Bourgogne,Petite-Bourgogne,Montreal,"Montreal, Quebec","Montreal, QC",45.48630936700005,-73.57269771199998,False
+H4J,Cartierville,Cartierville Center,Montreal,"Montreal, Quebec","Montreal, QC",45.53137035100008,-73.70905649099996,False
+H7J,Laval,Northeast Auteuil,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9J,Kirkland,Kirkland East,Montreal,"Montreal, Quebec","Montreal, QC",45.44958434800003,-73.86616292299993,False
+H1K,Anjou,Anjou South,Montreal,"Montreal, Quebec","Montreal, QC",45.60893648900003,-73.54535963399996,False
+H2K,Centre-Sud & co,"Centre-Sud, Sainte-Marie",Montreal,"Montreal, Quebec","Montreal, QC",45.530641048000064,-73.55409481299995,False
+H3K,Pointe-Saint-Charles,Pointe-Saint-Charles,Montreal,"Montreal, Quebec","Montreal, QC",45.481153376000066,-73.55818648199994,False
+H4K,Cartierville,Cartierville South,Montreal,"Montreal, Quebec","Montreal, QC",45.51904753700006,-73.73523850499998,False
+H7K,Laval,South Auteuil,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H9K,Pierrefonds & co,"Pierrefonds, Kirkland",Montreal,"Montreal, Quebec","Montreal, QC",45.46170834700007,-73.93112294699995,False
+H1L,Mercier,Mercier North,Montreal,"Montreal, Quebec","Montreal, QC",45.59976073100006,-73.51925168599996,False
+H2L,Centre-Sud & co,"Centre-Sud, Le Village",Montreal,"Montreal, Quebec","Montreal, QC",45.520175925000046,-73.56087844199999,False
+H3L,Ahuntsic,Ahuntsic West,Montreal,"Montreal, Quebec","Montreal, QC",45.546533269000065,-73.67219055899994,False
+H4L,Saint-Laurent,Saint-Laurent Center 1,Montreal,"Montreal, Quebec","Montreal, QC",45.51836974300005,-73.68392863199995,False
+H7L,Laval,Sainte-Rose,Montreal,"Montreal, Quebec","Montreal, QC",45.601313392000066,-73.76940871499994,False
+H0M,Akwesasne,Region1A0 & 0A1:Akwesasne,Montreal,"Montreal, Quebec","Montreal, QC",45.65832800000004,-73.51384399999995,False
+H1M,Mercier,Mercier West,Montreal,"Montreal, Quebec","Montreal, QC",45.589039410000055,-73.55648373899999,False
+H2M,Ahuntsic,Ahuntsic East,Montreal,"Montreal, Quebec","Montreal, QC",45.55453243200003,-73.63907784199995,False
+H3M,Cartierville,Cartierville North,Montreal,"Montreal, Quebec","Montreal, QC",45.53816138800005,-73.69317525599996,False
+H4M,Saint-Laurent,Saint-Laurent Center 2,Montreal,"Montreal, Quebec","Montreal, QC",45.50032867400006,-73.68764080899996,False
+H7M,Laval,Vimont,Montreal,"Montreal, Quebec","Montreal, QC",45.59877828800006,-73.71636812699995,False
+H1N,Mercier,Mercier South,Montreal,"Montreal, Quebec","Montreal, QC",45.576800081000044,-73.53051191599997,False
+H2N,Ahuntsic,Ahuntsic South,Montreal,"Montreal, Quebec","Montreal, QC",45.54090378500007,-73.65116565299996,False
+H3N,Parc-Extension,Parc-Extension,Montreal,"Montreal, Quebec","Montreal, QC",45.529417022000075,-73.63164598699996,False
+H4N,Saint-Laurent,Saint-Laurent North,Montreal,"Montreal, Quebec","Montreal, QC",45.52556651700007,-73.66496409399997,False
+H7N,Laval,Laval-des-Rapides,Montreal,"Montreal, Quebec","Montreal, QC",45.56054541200007,-73.70564408099995,False
+H8N,LaSalle,LaSalle North,Montreal,"Montreal, Quebec","Montreal, QC",45.43983932700007,-73.62172867199996,False
+H1P,Saint-Léonard,Saint-Léonard North,Montreal,"Montreal, Quebec","Montreal, QC",45.59828459700003,-73.59440641099997,False
+H2P,Villeray,Villeray West,Montreal,"Montreal, Quebec","Montreal, QC",45.54215812700005,-73.63480947199997,False
+H3P,Mount Royal,Mount Royal North,Montreal,"Montreal, Quebec","Montreal, QC",45.521838984000055,-73.63896601199997,False
+H4P,Mount Royal,Mount Royal South,Montreal,"Montreal, Quebec","Montreal, QC",45.49538030000008,-73.66204946599998,False
+H7P,Laval,Fabreville,Montreal,"Montreal, Quebec","Montreal, QC",45.57739623400005,-73.80037636099996,False
+H8P,LaSalle,LaSalle South,Montreal,"Montreal, Quebec","Montreal, QC",45.42494413400004,-73.60743661699996,False
+H9P,Dorval,Outskirts South,Montreal,"Montreal, Quebec","Montreal, QC",45.47077647200007,-73.77583330399995,False
+H1R,Saint-Léonard,Saint-Léonard West,Montreal,"Montreal, Quebec","Montreal, QC",45.58631578400008,-73.60812039499996,False
+H2R,Villeray,Villeray South,Montreal,"Montreal, Quebec","Montreal, QC",45.53983477300005,-73.62239358799997,False
+H3R,Mount Royal,Mount Royal Central,Montreal,"Montreal, Quebec","Montreal, QC",45.51061649300004,-73.64803998199994,False
+H4R,Saint-Laurent,Saint-Laurent Center 3,Montreal,"Montreal, Quebec","Montreal, QC",45.505955904000075,-73.71500949699998,False
+H7R,Laval,Laval-sur-le-Lac,Montreal,"Montreal, Quebec","Montreal, QC",45.52098601382271,-73.70553651531485,True
+H8R,LaSalle & co,"LaSalle, Ville Saint-Pierre",Montreal,"Montreal, Quebec","Montreal, QC",45.428677039000036,-73.64684077499999,False
+H9R,Pointe-Claire,North Central South,Montreal,"Montreal, Quebec","Montreal, QC",45.46000579100007,-73.81187171299996,False
+H1S,Saint-Léonard,Saint-Léonard South,Montreal,"Montreal, Quebec","Montreal, QC",45.58160283700005,-73.58183580599996,False
+H2S,Petite-Patrie,Petite-Patrie South,Montreal,"Montreal, Quebec","Montreal, QC",45.53480009200007,-73.60581432799995,False
+H3S,Côte-des-Neiges,Côte-des-Neiges North,Montreal,"Montreal, Quebec","Montreal, QC",45.505933836000054,-73.63024982799993,False
+H4S,Saint-Laurent,Saint-Laurent West,Montreal,"Montreal, Quebec","Montreal, QC",45.48527315900003,-73.74554089599997,False
+H7S,Laval,Northeast Chomedey,Montreal,"Montreal, Quebec","Montreal, QC",45.57155277545262,-73.72931293757934,False
+H8S,Lachine,Lachine South,Montreal,"Montreal, Quebec","Montreal, QC",45.44060703700006,-73.67347004799996,False
+H9S,Pointe-Claire,"Dorval, L'Île-Dorval",Montreal,"Montreal, Quebec","Montreal, QC",45.442497023000044,-73.74839426599993,False
+H1T,Rosemont,Rosemont North,Montreal,"Montreal, Quebec","Montreal, QC",45.57623816300003,-73.56983111499994,False
+H2T,Plateau Mont-Royal,Plateau Mont-Royal West,Montreal,"Montreal, Quebec","Montreal, QC",45.52438057900008,-73.59509989099996,False
+H3T,Côte-des-Neiges & co,"Côte-des-Neiges, Université de Montréal",Montreal,"Montreal, Quebec","Montreal, QC",45.50303497900006,-73.61837095699997,False
+H4T,Saint-Laurent,Saint-Laurent South,Montreal,"Montreal, Quebec","Montreal, QC",45.48159960800007,-73.69464962899997,False
+H7T,Laval,Northwest Chomedey,Montreal,"Montreal, Quebec","Montreal, QC",45.55703972900005,-73.77122234699993,False
+H8T,Lachine,Lachine North,Montreal,"Montreal, Quebec","Montreal, QC",45.45202468600007,-73.70769984399993,False
+H1V,Maisonneuve,Maisonneuve,Montreal,"Montreal, Quebec","Montreal, QC",45.55694237800003,-73.53961133199994,False
+H2V,Outremont,Outremont,Montreal,"Montreal, Quebec","Montreal, QC",45.51230187200008,-73.60322524499998,False
+H3V,Côte-des-Neiges,Côte-des-Neiges East,Montreal,"Montreal, Quebec","Montreal, QC",45.49603490000004,-73.61211260699997,False
+H4V,Côte Saint-Luc,Côte Saint-Luc East,Montreal,"Montreal, Quebec","Montreal, QC",45.46723276400007,-73.64860464599997,False
+H7V,Laval,East Chomedey,Montreal,"Montreal, Quebec","Montreal, QC",45.54608155300008,-73.73691031599998,False
+H1W,Hochelaga,Hochelaga,Montreal,"Montreal, Quebec","Montreal, QC",45.543895690000056,-73.54659521899998,False
+H2W,Plateau Mont-Royal,Plateau Mont-Royal Center 2,Montreal,"Montreal, Quebec","Montreal, QC",45.51633292400004,-73.58152211899994,False
+H3W,Côte-des-Neiges,Côte-des-Neiges South,Montreal,"Montreal, Quebec","Montreal, QC",45.489891389000036,-73.63204346599997,False
+H4W,Côte Saint-Luc,Côte Saint-Luc West,Montreal,"Montreal, Quebec","Montreal, QC",45.46564442700003,-73.67485042699997,False
+H7W,Laval,South Chomedey,Montreal,"Montreal, Quebec","Montreal, QC",45.533659674000035,-73.76565796299997,False
+H9W,Beaconsfield,Beaconsfield,Montreal,"Montreal, Quebec","Montreal, QC",45.430839493000065,-73.86849214199998,False
+H1X,Rosemont,Rosemont East,Montreal,"Montreal, Quebec","Montreal, QC",45.55869688900003,-73.56395672299993,False
+H2X,Plateau Mont-Royal,Plateau Mont-Royal South,Montreal,"Montreal, Quebec","Montreal, QC",45.511691746000054,-73.56796579799999,False
+H3X,Hampstead,"Montreal, Snowdon, Notre-Dame-de-Grâce",Montreal,"Montreal, Quebec","Montreal, QC",45.481864391000045,-73.64337971199996,False
+H4X,Côte Saint-Luc,Montreal West,Montreal,"Montreal, Quebec","Montreal, QC",45.45546442600005,-73.65926703799994,False
+H7X,Laval,Sainte-Dorothée,Montreal,"Montreal, Quebec","Montreal, QC",45.53228358100006,-73.81011114199998,False
+H9X,Sainte-Anne-de-Bellevue,"Baie-D'Urfé, Senneville",Montreal,"Montreal, Quebec","Montreal, QC",45.42664685200003,-73.93484372699999,False
+H1Y,Rosemont,Rosemont South,Montreal,"Montreal, Quebec","Montreal, QC",45.54858438900004,-73.57859665599995,False
+H2Y,Old Montreal,Old Montreal,Montreal,"Montreal, Quebec","Montreal, QC",45.50586838700008,-73.55363951299995,False
+H3Y,Westmount,Westmount North,Montreal,"Montreal, Quebec","Montreal, QC",45.48771742100007,-73.60471264199998,False
+H4Y,Dorval,YUL,Montreal,"Montreal, Quebec","Montreal, QC",45.456955074000064,-73.75575525799997,False
+H7Y,Laval,Îles-Laval,Montreal,"Montreal, Quebec","Montreal, QC",45.527632511000036,-73.85004273399994,False
+H8Y,Roxboro,Roxboro,Montreal,"Montreal, Quebec","Montreal, QC",45.506715892000045,-73.80851554599997,False
+H1Z,Saint-Michel,Saint-Michel North,Montreal,"Montreal, Quebec","Montreal, QC",45.570200423000074,-73.62150416899993,False
+H2Z,Old Montreal & co,"Old Montreal, Downtown",Montreal,"Montreal, Quebec","Montreal, QC",45.505165463000026,-73.56210801799995,False
+H3Z,Westmount,Westmount South,Montreal,"Montreal, Quebec","Montreal, QC",45.48275111800007,-73.59314904899998,False
+H4Z,Tour de la Bourse,Tour de la Bourse,Montreal,"Montreal, Quebec","Montreal, QC",45.5008513,-73.5616283,False
+H8Z,Pierrefonds,Pierrefonds,Montreal,"Montreal, Quebec","Montreal, QC",45.50702382800006,-73.84093444999996,False
+K1A,Gatineau,Gatineau,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.375255510000045,-75.69466373999995,False
+K2A,Highland Park & co,"Highland Park, McKellar Heights, McKellar Park, Glabar Park, Carlingwood",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.378907824000066,-75.76187965799994,False
+K4A,Fallingbrook,Fallingbrook,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.46754810400006,-75.47086190799996,False
+K6A,Hawkesbury,Hawkesbury,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.607323000000065,-74.60422799999998,False
+K7A,Smiths Falls,Smiths Falls,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.98653291100004,-75.98934127899997,False
+K8A,Pembroke,Central and northern subdivisions,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.62982783208055,-76.88147241677288,True
+K9A,Cobourg,Cobourg,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.43378601136637,-75.6794542085543,False
+K1B,Blackburn Hamlet & co,"Blackburn Hamlet, Pine View, Sheffield Glen",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.438135196000076,-75.56438634999995,False
+K2B,Britannia & co,"Britannia, Foster Farm, Queensway Terrace North, Whitehaven, Bayshore, Woodpark",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.361296656000036,-75.79124595199994,False
+K4B,Navan,Navan,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.393884513000046,-75.31434709299998,False
+K8B,Pembroke,"Pleasant View, Fairview",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.62982783208055,-76.88147241677288,True
+K1C,Orleans & co,"Orleans, Chapel Hill, Chateauneuf, Convent Glen, Hiawatha Park, Orleans Village, Orleans Wood",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.463407130000064,-75.53993053299996,False
+K2C,Queensway Terrace South & co,"Queensway Terrace South, Ridgeview, Parkway Park, Kenson Park, Bel-Air Park, Braemar Park, Bel-Air Heights, Copeland Park, Central Park, Carleton Heights, Carleton University",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.375505469000075,-75.70906227299997,False
+K4C,Cumberland,Cumberland,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.495412618000046,-75.38843377599994,False
+K7C,Carleton Place,Carleton Place,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.08894075300003,-76.24478836599997,False
+K1E,Orleans & co,"Orleans, Queenswood Heights, Queenswood Village",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.474910668000064,-75.50515029599995,False
+K2E,Skyline & co,"Skyline, Fisher Heights, Parkwood Hills, Stewart Farm, Borden Farm, Fisher Glen, CitiPlace, Pineglen, Clearview, Country Place",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.344838217000074,-75.71515941899997,False
+K1G,Eastway Gardens & co,"Eastway Gardens, Riverview, Hawthorne, Elmvale Acres, Canterbury, Hunt Club Park",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.37241482500008,-75.59137081599994,False
+K2G,Briargreen & co,"Briargreen, Centrepointe, Ryan Farm, Algonquin College, Meadowlands, City View, Crestview, Craig Henry, Woodvale, Manordale, Tangelwood, Merivale Gardens, Grenfell Glen, Ashdale, Rideau Glen, Davidson Heights, Havenlea",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.329326381000044,-75.74956769299996,False
+K7G,Gananoque,Gananoque,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.329071000000056,-76.16446999999994,False
+K1H,Alta Vista & co,"Alta Vista, Billings Bridge",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.389337141000055,-75.65706925099994,False
+K2H,Bells Corners & co,"Bells Corners, Trend-Arlington, Redwood, Qualicum-Graham Park, Leslie Park, Crystal Beach, Lakeview, Rocky Point, Crystal Bay",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.32991603700003,-75.82806261699994,False
+K6H,Cornwall,Cornwall East,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.03964510800006,-74.70692722399997,False
+K7H,Perth,Perth,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.19913843690235,-75.83139546274498,False
+K8H,Petawawa,Petawawa,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.900765000000035,-77.27628699999997,False
+K9H,Peterborough,Peterborough Central,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.30896400000006,-78.31985799999995,True
+K1J,Beacon Hill & co,"Beacon Hill, Cyrville, Carson Grove",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.446918561000075,-75.60383970999999,False
+K2J,Barrhaven,Barrhaven,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.27470286500005,-75.75234848099996,False
+K6J,Cornwall,Cornwall West,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.426474984468186,-75.68247849386302,True
+K9J,Peterborough,Peterborough South,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.30896400000006,-78.31985799999995,True
+K1K,Overbrook & co,"Overbrook, Forbes, Manor Park, Viscount Alexander Park, Carson Meadows",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.44256291500005,-75.64311612499995,False
+K2K,Beaverbrook & co,"Beaverbrook, Morgan's Grant, Briar Brook, Kanata Lakes",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.34169036700007,-75.89031879599997,False
+K4K,Rockland,Rockland,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.55188551900005,-75.24254721699998,False
+K6K,Cornwall,Cornwall North,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.426474984468186,-75.68247849386302,True
+K7K,Kingston,"Pittsburgh Township, CFB Kingston, Rideau Heights",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.373839985287674,-75.73259603033429,True
+K9K,Peterborough,"Fairbairn Meadows, Jackson Heights",Ottawa,"Ottawa, Ontario","Ottawa, ON",44.30896400000006,-78.31985799999995,True
+K1L,Vanier & co,"Vanier, McKay Lake",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.43993812700006,-75.66272214299994,False
+K2L,Katimavik-Hazeldean & co,"Katimavik-Hazeldean, Glen Cairn",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.30293536500005,-75.88707128799996,False
+K7L,Kingston,Princess St.,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.373839985287674,-75.73259603033429,True
+K9L,Peterborough,"Terra View Heights, Woodland Acres, Donwood",Ottawa,"Ottawa, Ontario","Ottawa, ON",44.30896400000006,-78.31985799999995,True
+K1M,Rockcliffe Park & co,"Rockcliffe Park, New Edinburgh, Lindenlea",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.448273984000025,-75.67974323599998,False
+K2M,Bridlewood & co,"Bridlewood, Trailwest, Blackstone",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.29101022900005,-75.85559168499998,False
+K4M,Manotick,Manotick,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.226772735000054,-75.65439049599996,False
+K7M,Kingston,"Reddendale, Cataraqui, Collins Bay",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.373839985287674,-75.73259603033429,True
+K1N,Lower Town & co,"Lower Town, ByWard Market, Sandy Hill, University of Ottawa",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.428184928000064,-75.68350225999995,False
+K7N,Amherstview,Kingston,Ottawa,"Ottawa, Ontario","Ottawa, ON",42.950234726846205,-79.85742249162907,False
+K8N,Belleville,"Canadian Forces, Army, RCAF, CANCOM",Ottawa,"Ottawa, Ontario","Ottawa, ON",43.24286758585035,-79.81927271923948,False
+K1P,Downtown,Downtown South,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.42162322100006,-75.69680388299997,False
+K2P,Centretown,Centretown,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.415736769000034,-75.69060397599998,False
+K4P,Greely,Greely,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.237155622000046,-75.56241471499999,False
+K7P,Kingston,"Westbrook, Cataraqui Woods, Cedarwood",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.373839985287674,-75.73259603033429,True
+K8P,Belleville,Belleville West,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.257164303000025,-77.37038823599994,True
+K1R,Centretown West & co,"Centretown West, Chinatown, LeBreton Flats, Little Italy",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.41126326400007,-75.70856418399995,False
+K2R,Fallowfield Village & co,"Fallowfield Village, Cedarhill Estates, Orchard Estates",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.28360059800008,-75.81679703299994,False
+K4R,Russell,Russell,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.24590840800005,-75.35598824199997,False
+K7R,Napanee,Napanee,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.24836300000004,-76.95058999999998,False
+K8R,Belleville,"Sidney Township, Avondale",Ottawa,"Ottawa, Ontario","Ottawa, ON",44.257164303000025,-77.37038823599994,True
+K1S,The Glebe & co,"The Glebe, Old Ottawa South, Old Ottawa East, Glebe Annex",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.39225706800005,-75.68465408099996,False
+K2S,Stittsville & co,"Stittsville, Huntley, Healey's Heath, Stanley Corners, Mansfield, Bridlewood Trails",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.231937293000044,-75.91632980799994,False
+K7S,Arnprior,Arnprior,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.43215868000004,-76.45606375499995,False
+K1T,Blossom Park & co,"Blossom Park, Greenboro, Leitrim, Findlay Creek",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.33447842600003,-75.61764083899999,False
+K2T,Marchwood & co,"Marchwood, Kanata Estates, Richardson Estates, Heritage Hills, Arcadia",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.312477142000034,-75.92950900499994,False
+K6T,Elizabethtown-Kitley,Brockville North,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.705867227000056,-75.81453997199998,False
+K1V,Cedardale & co,"Cedardale, Ellwood, Heron Gate, Heron Park, Riverside Park, Honey Gables, Hunt Club, Ridgemont, Riverside South, South Keys, Uplands",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.32791086100008,-75.67059905399998,False
+K2V,Bradley Commons & co,"Bradley Commons, Fernbank Crossing, Abbottsville Crossing",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.285779440000056,-75.90029131799997,False
+K6V,Brockville,Brockville South,Ottawa,"Ottawa, Ontario","Ottawa, ON",44.590265000000045,-75.68260099999998,False
+K7V,Renfrew,Renfrew,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.40450636092411,-75.69755075549537,False
+K8V,Trenton,Trenton,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.37633976949177,-75.72869314857651,False
+K9V,Lindsay,Lindsay,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.40693707986134,-75.65228314015121,False
+K1W,Bradley Estates & co,"Bradley Estates, Chapel Hill South, Blackburn, Trailsedge",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.43307815700007,-75.51756224499997,False
+K2W,March & co,"March, South March, Brookside, Marchhurst, Harwood Plains",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.367742830000054,-75.99712081699994,False
+K1X,Ficko,Ficko,Ottawa,"Ottawa, Ontario","Ottawa, ON",45.28069874300007,-75.62053626799997,False
+K1Y,Civic Hospital & co,"Civic Hospital, Wellington Village, Hintonburg, Mechanicsville, Champlain Park, Tunney's Pasture",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.401065317000075,-75.73193820499995,False
+K1Z,Westboro & co,"Westboro, Carlington",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.38305905000004,-75.73835292599995,False
+K0A,Almonte,"Ashton, Bourget, Braeside, Carlsbad Springs, Carp, Casselman, Clarence Creek, Clayton, Crysler, Dunrobin, Edwards, Embrun, Embrun, Fitzroy Harbour, Hammond, Kars, Kenmore, Kinburn, Limoges, Metcalfe, Morewood, North Gower, Osgoode, Pakenham, Ramsayville, Richmond, St. Albert, Sarsfield, Vars, Vernon, Wendover, White Lake, Woodlawn, Saint-Pascal-Baylon, Munster, Embrun, Almonte",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.32579464000003,-75.12798156199995,False
+K0B,Alfred,"Chute à Blondeau, Curran, Dalkeith, Fournier, Glen Robertson, Lefaivre, L'Orignal, Plantagenet, Ste-Anne-de-Prescott, St-Bernardin, St. Eugene, Vankleek Hill",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.4403770840326,-75.65540677463721,False
+K0C,Alexandria,"Apple Hill, Avonmore, Bainsville, Berwick, Chesterville, Dunvegan, Finch, Green Valley, Ingleside, Lancaster, Long Sault, Lunenburg, Martintown, Maxville, Monkland, Moose Creek, Morrisburg, Newington, North Lancaster, St. Andrews West, St. Isidore, South Lancaster, Summerstown, Williamsburg, Williamstown, Winchester, Winchester Springs",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.16987602800003,-74.90268520099994,False
+K0E,Addison,"Athens, Brinston, Cardinal, Delta, Frankville, Inkerman, Iroquois, Lansdowne, Lyn, Lyndhurst, Maitland, Mallorytown, Mountain, Prescott, Rockport, South Mountain, Spencerville, Toledo",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.38153361940793,-75.73545542039236,False
+K0G,Balderson,"Burritts Rapids, Elgin, Jasper, Kemptville, Lanark, Lombardy, McDonalds Corners, Merrickville, Newboro, North Augusta, Oxford Mills, Oxford Station, Portland, Rideau Ferry, Westport",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.05532250500005,-76.51568652199995,False
+K0H,Arden,"Ardoch, Bath, Battersea, Clarendon Station, Cloyne, Denbigh, Elginburg, Flinton, Glenburnie, Godfrey, Harrowsmith, Hartington, Inverary, Joyceville, Kaladar, Maberly, Mississippi Station, Mountain Grove, Northbrook, Odessa, Ompah, Parham, Perth Road, Plevna, Seeleys Bay, Sharbot Lake, Snow Road Station, Stella, Sydenham, Tichborne, Verona, Wolfe Island",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.34606875172649,-75.65726839209691,False
+K0J,Barry's Bay,"Beachburg, Bissett Creek, Burnstown, Calabogie, Chalk River, Cobden, Combermere, Cormac, Dacre, Deep River, Deux Rivieres, Douglas, Eganville, Foresters Falls, Foymount, Golden Lake, Haley Station, Killaloe, Mackey, Madawaska, Palmer Rapids, Quadeville, Rolphton, Round Lake Centre, Stonecliffe, Westmeath, Whitney, Wilno, Griffith",Ottawa,"Ottawa, Ontario","Ottawa, ON",46.014238992246916,-77.45102649435916,False
+K0K,Picton,"Ameliasburgh, Astra, Baltimore, Batawa, Bloomfield, Brighton, Camden East, Cannifton, Carrying Place, Castleton, Centreville, Cherry Valley, Codrington, Colborne, Consecon, Corbyville, Demorestville, Deseronto, Eldorado, Enterprise, Erinsville, Foxboro, Frankford, Gores Landing, Grafton, Harwood, Hillier, Madoc  township , Madoc  village , Marlbank, Marmora, Marysville, Milford, Newburgh, Picton, Plainfield, Roblin, Roseneath, Roslin, Selby, Shannonville, Springbrook, Stirling, Tamworth, Thomasburg, Tweed, Warkworth, Wellington, Wooler, Yarker, Astra",Ottawa,"Ottawa, Ontario","Ottawa, ON",44.32213,-76.340704,False
+K0L,Lakefield,"Apsley, Bailieboro, Bancroft, Bewdley, Boulter, Bridgenorth, Buckhorn, Campbellford, Cardiff, Coe Hill, Curve Lake, Ennismore, Fraserville, Gilmour, Harcourt, Hastings, Havelock, Highland Grove, Indian River, Juniper Island, Keene, Lakefield, Lakehurst, Lake St. Peter, L'Amable, McArthur's Mills, Maple Leaf, Maynooth, Norwood, Omemee, Reaboro, Tory Hill, Trent River, Douro-Dummer, Warsaw, Westwood, Wilberforce, Woodview, Young's Point",Ottawa,"Ottawa, Ontario","Ottawa, ON",44.43374115704422,-77.8900228894813,False
+K0M,Bobcaygeon,"Bolsover, Burnt River, Cambray, Cameron, Algonquin Highlands, Coboconk, Dunsford, Eagle Lake, Fenelon Falls, Gooderham, Haliburton, Irondale, Kinmount, Kirkfield, Little Britain, Manilla, Minden, Norland, Oakwood, West Guilford, Woodville",Ottawa,"Ottawa, Ontario","Ottawa, ON",45.260735700861936,-75.75476908265469,False
+M1B,Scarborough,"Malvern, Rouge",Toronto,"Toronto, Ontario","Toronto, ON",43.80918705800008,-79.19315671499999,False
+M3B,North York,Don Mills,Toronto,"Toronto, Ontario","Toronto, ON",43.74613642600008,-79.35885268399994,False
+M4B,East York,"Parkview Hill, Woodbine Gardens",Toronto,"Toronto, Ontario","Toronto, ON",43.70644344200008,-79.30999082399995,False
+M5B,Downtown Toronto,"Garden District, Ryerson",Toronto,"Toronto, Ontario","Toronto, ON",43.65775734600004,-79.37832560799995,False
+M6B,North York,Glencairn,Toronto,"Toronto, Ontario","Toronto, ON",43.70773262500006,-79.44770740099995,False
+M9B,Etobicoke,"West Deane Park, Princess Gardens, Martin Grove, Islington",Toronto,"Toronto, Ontario","Toronto, ON",43.65239830100006,-79.55373344499998,False
+M1C,Scarborough,"Rouge Hill, Port Union, Highland Creek",Toronto,"Toronto, Ontario","Toronto, ON",43.787427415000025,-79.15598765899995,False
+M3C,North York,"Don Mills, Flemingdon Park",Toronto,"Toronto, Ontario","Toronto, ON",43.724321461000045,-79.34329698299996,False
+M4C,East York,Woodbine Heights,Toronto,"Toronto, Ontario","Toronto, ON",43.69165547500006,-79.31139865599994,False
+M5C,Downtown Toronto,St. James Town,Toronto,"Toronto, Ontario","Toronto, ON",43.651486084000055,-79.37562534399996,False
+M6C,York,Humewood-Cedarvale,Toronto,"Toronto, Ontario","Toronto, ON",43.69173335800008,-79.43080985699999,False
+M9C,Etobicoke,Markland Wood,Toronto,"Toronto, Ontario","Toronto, ON",43.642609925000045,-79.57628915399994,False
+M1E,Scarborough,"Guildwood, Morningside, West Hill",Toronto,"Toronto, Ontario","Toronto, ON",43.76552287800007,-79.18567131099996,False
+M4E,The Beaches,East Toronto The Beaches,Toronto,"Toronto, Ontario","Toronto, ON",43.67822260500003,-79.29375836199995,False
+M5E,Downtown Toronto,Berczy Park,Toronto,"Toronto, Ontario","Toronto, ON",43.645444293000025,-79.37327166399996,False
+M6E,York,Caledonia-Fairbanks,Toronto,"Toronto, Ontario","Toronto, ON",43.68806668700006,-79.45041783299996,False
+M1G,Scarborough,Woburn,Toronto,"Toronto, Ontario","Toronto, ON",43.77063534500007,-79.21669989199995,False
+M4G,East York,Leaside,Toronto,"Toronto, Ontario","Toronto, ON",43.70884486600005,-79.36613953399996,False
+M5G,Downtown Toronto,Bay Street,Toronto,"Toronto, Ontario","Toronto, ON",43.656790476000026,-79.38610291199996,False
+M6G,Downtown Toronto,Christie,Toronto,"Toronto, Ontario","Toronto, ON",43.668026646000044,-79.42075805199994,False
+M1H,Scarborough,Cedarbrae,Toronto,"Toronto, Ontario","Toronto, ON",43.76855515400007,-79.23867705699996,False
+M2H,North York,Hillcrest Village,Toronto,"Toronto, Ontario","Toronto, ON",43.80171357300003,-79.35825740499996,False
+M3H,North York,"Bathurst Manor, Wilson Heights, Downsview",Toronto,"Toronto, Ontario","Toronto, ON",43.74735128300006,-79.44412824799997,False
+M4H,East York,Thorncliffe Park,Toronto,"Toronto, Ontario","Toronto, ON",43.70446100000004,-79.34818905999998,False
+M5H,Downtown Toronto,"Richmond, King",Toronto,"Toronto, Ontario","Toronto, ON",43.64997834500008,-79.38359315699995,False
+M6H,Dufferin,Dovercourt Village,Toronto,"Toronto, Ontario","Toronto, ON",43.664828442000044,-79.43770119999994,False
+M1J,Scarborough,Village,Toronto,"Toronto, Ontario","Toronto, ON",43.74665016600005,-79.23193932899994,False
+M2J,North York,Henry Farm,Toronto,"Toronto, Ontario","Toronto, ON",43.78040746100004,-79.34736251299995,False
+M3J,North York,"Northwood Park, York University",Toronto,"Toronto, Ontario","Toronto, ON",43.765731526000025,-79.48916546699996,False
+M4J,East York,The Danforth,Toronto,"Toronto, Ontario","Toronto, ON",43.686562826000056,-79.33672517699995,False
+M5J,Downtown Toronto,"Harbourfront, Union Station, Toronto Islands",Toronto,"Toronto, Ontario","Toronto, ON",43.61753179200008,-79.37327715699996,False
+M6J,Little Portugal,Trinity,Toronto,"Toronto, Ontario","Toronto, ON",43.648051648000035,-79.41765265299995,False
+M1K,Scarborough,"Kennedy Park, Ionview, Birchmount Park",Toronto,"Toronto, Ontario","Toronto, ON",43.72960391300006,-79.26381057499998,False
+M2K,North York,Bayview Village,Toronto,"Toronto, Ontario","Toronto, ON",43.773441803000026,-79.37722399799998,False
+M3K,North York,"Downsview, CFB Toronto",Toronto,"Toronto, Ontario","Toronto, ON",43.73898974400004,-79.47091157599993,False
+M4K,The Danforth,Riverdale,Toronto,"Toronto, Ontario","Toronto, ON",43.68042137200007,-79.35324744199994,False
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",Toronto,"Toronto, Ontario","Toronto, ON",43.64770684700005,-79.38172140699999,False
+M6K,Brockton,"Parkdale Village, Exhibition Place",Toronto,"Toronto, Ontario","Toronto, ON",43.63780702100007,-79.42704630599997,False
+M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",Toronto,"Toronto, Ontario","Toronto, ON",43.71349305700005,-79.28483536199997,False
+M2L,North York,York Mills North,Toronto,"Toronto, Ontario","Toronto, ON",43.758908346000055,-79.37014296399997,False
+M3L,North York,Downsview Center,Toronto,"Toronto, Ontario","Toronto, ON",43.74017090800004,-79.50611162799999,False
+M4L,India Bazaar,The Beaches,Toronto,"Toronto, Ontario","Toronto, ON",43.669379581000044,-79.31560958699998,False
+M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",Toronto,"Toronto, Ontario","Toronto, ON",43.648146336000025,-79.37928012199995,False
+M6L,North York,Maple Leaf Park,Toronto,"Toronto, Ontario","Toronto, ON",43.71352100200005,-79.48785818999994,False
+M9L,North York,Humber Summit,Toronto,"Toronto, Ontario","Toronto, ON",43.75940253200008,-79.55634496499994,False
+M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village",Toronto,"Toronto, Ontario","Toronto, ON",43.72513229200007,-79.23061367299994,False
+M2M,North York,Newtonbrook,Toronto,"Toronto, Ontario","Toronto, ON",43.791637353000056,-79.41017068699995,False
+M3M,North York,Downsview South,Toronto,"Toronto, Ontario","Toronto, ON",43.72654095100006,-79.49858956199995,False
+M4M,East Toronto Studio District,East Toronto Studio District,Toronto,"Toronto, Ontario","Toronto, ON",43.65718893300004,-79.33584138399993,False
+M5M,North York,"Bedford Park, Lawrence Manor",Toronto,"Toronto, Ontario","Toronto, ON",43.73296018700006,-79.41775109399998,False
+M6M,York,"Mount Dennis, Keelsdale and Silverthorn",Toronto,"Toronto, Ontario","Toronto, ON",43.69680245100005,-79.48714253199995,False
+M9M,North York,"Humberlea, Emery",Toronto,"Toronto, Ontario","Toronto, ON",43.73454944300005,-79.53237329699994,False
+M1N,Scarborough,"Birch Cliff, Cliffside",Toronto,"Toronto, Ontario","Toronto, ON",43.695754806000025,-79.26411933299994,False
+M2N,North York,Willowdale South,Toronto,"Toronto, Ontario","Toronto, ON",43.76760071100006,-79.41027775999999,False
+M3N,North York,Downsview North,Toronto,"Toronto, Ontario","Toronto, ON",43.75692873300005,-79.52026201799998,False
+M4N,Lawrence Park,Central Toronto Lawrence Park,Toronto,"Toronto, Ontario","Toronto, ON",43.72736407000008,-79.38991070699996,False
+M5N,Central Toronto Roselawn,Central Toronto Roselawn,Toronto,"Toronto, Ontario","Toronto, ON",43.71139108500006,-79.41919655399994,False
+M6N,York,"Runnymede, The Junction",Toronto,"Toronto, Ontario","Toronto, ON",43.674637801000074,-79.48346825899995,False
+M9N,York,Weston,Toronto,"Toronto, Ontario","Toronto, ON",43.70654267000003,-79.51741584399997,False
+M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",Toronto,"Toronto, Ontario","Toronto, ON",43.76205013100008,-79.27094176199995,False
+M2P,North York,York Mills South,Toronto,"Toronto, Ontario","Toronto, ON",43.75038388400003,-79.39989980999997,False
+M4P,Davisville,Central Toronto DavisvilleNorth,Toronto,"Toronto, Ontario","Toronto, ON",43.71251177000005,-79.39033065299998,False
+M5P,Forest Hill,Central Toronto Forest HillNorth & West,Toronto,"Toronto, Ontario","Toronto, ON",43.700094199000034,-79.40418772799995,False
+M6P,High Park,The Junction,Toronto,"Toronto, Ontario","Toronto, ON",43.660816831000034,-79.46430113599996,False
+M9P,Etobicoke,Westmount,Toronto,"Toronto, Ontario","Toronto, ON",43.69279987600004,-79.53289089399993,False
+M1R,Scarborough,"Wexford, Maryvale",Toronto,"Toronto, Ontario","Toronto, ON",43.751347199000065,-79.30109779199995,False
+M2R,North York,Willowdale North,Toronto,"Toronto, Ontario","Toronto, ON",43.778133539000066,-79.44463076599999,False
+M4R,North Toronto,Central Toronto North TorontoWest,Toronto,"Toronto, Ontario","Toronto, ON",43.71481033600003,-79.40627441199996,False
+M5R,The Annex,"North Midtown, Yorkville",Toronto,"Toronto, Ontario","Toronto, ON",43.67176142400007,-79.40317528899999,False
+M6R,Parkdale,Roncesvalles,Toronto,"Toronto, Ontario","Toronto, ON",43.64755660700007,-79.44988227899995,False
+M7R,Mississauga,Canada Post Gateway Processing Centre Enclave of L4W,Toronto,"Toronto, Ontario","Toronto, ON",43.65352400000006,-79.38390699999997,False
+M9R,Etobicoke,Kingsview Village,Toronto,"Toronto, Ontario","Toronto, ON",43.687157495000065,-79.55864455099999,False
+M1S,Scarborough,Agincourt,Toronto,"Toronto, Ontario","Toronto, ON",43.794130550000034,-79.26556016599994,False
+M4S,Davisville,Central Toronto Davisville,Toronto,"Toronto, Ontario","Toronto, ON",43.70310280500007,-79.38669970799998,False
+M5S,Downtown Toronto,University of Toronto,Toronto,"Toronto, Ontario","Toronto, ON",43.663479893000044,-79.39939789299996,False
+M6S,Runnymede,Swansea,Toronto,"Toronto, Ontario","Toronto, ON",43.650219435000054,-79.47993085399997,False
+M1T,Scarborough,"Tam O'Shanter, Sullivan",Toronto,"Toronto, Ontario","Toronto, ON",43.78152698900004,-79.30302002499997,False
+M4T,Moore Park,Summerhill,Toronto,"Toronto, Ontario","Toronto, ON",43.69056378100004,-79.38507535999997,False
+M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",Toronto,"Toronto, Ontario","Toronto, ON",43.65375024200006,-79.39823568999998,False
+M1V,Scarborough,"Milliken, Agincourt North, Steeles, L'Amoreaux",Toronto,"Toronto, Ontario","Toronto, ON",43.81787596100003,-79.28022014499999,False
+M4V,Summerhill,"Rathnelly, South Hill, Forest Hill, Deer Park",Toronto,"Toronto, Ontario","Toronto, ON",43.686522393000075,-79.40242163599999,False
+M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront, South Niagara, Island airport",Toronto,"Toronto, Ontario","Toronto, ON",43.641518559000076,-79.39728979099993,False
+M8V,Etobicoke,"New Toronto, Mimico",Toronto,"Toronto, Ontario","Toronto, ON",43.60524340500007,-79.50347382999996,False
+M9V,Etobicoke,"South Steeles, Silverstone, Jamestown, Mount Olive, Beaumond Heights, Thistletown",Toronto,"Toronto, Ontario","Toronto, ON",43.74282390900004,-79.58466487599998,False
+M1W,Scarborough,"Steeles, L'Amoreaux",Toronto,"Toronto, Ontario","Toronto, ON",43.80139432800007,-79.32141428399996,False
+M4W,Downtown Toronto,Rosedale,Toronto,"Toronto, Ontario","Toronto, ON",43.68018930900007,-79.37495054699997,False
+M5W,Downtown Toronto,Stn A PO Boxes25 The Esplanade Enclave of M5E,Toronto,"Toronto, Ontario","Toronto, ON",43.64611449100005,-79.37517786199999,False
+M8W,Etobicoke,"Alderwood, Long Branch",Toronto,"Toronto, Ontario","Toronto, ON",43.60125312200006,-79.53963968099998,False
+M9W,Etobicoke,"Clairville, Humberwood, Woodbine Downs, Rexdale, Elms",Toronto,"Toronto, Ontario","Toronto, ON",43.697038734000046,-79.59150599399999,False
+M1X,Scarborough,Upper Rouge,Toronto,"Toronto, Ontario","Toronto, ON",43.82968637600004,-79.22929352899996,False
+M4X,Downtown Toronto,"St. James Town, Cabbagetown",Toronto,"Toronto, Ontario","Toronto, ON",43.66828108300007,-79.36820467199993,False
+M5X,Downtown Toronto,"First Canadian Place, Underground city",Toronto,"Toronto, Ontario","Toronto, ON",43.648368686000026,-79.38319813799995,False
+M8X,Etobicoke,"The Kingsway, Old Mill",Toronto,"Toronto, Ontario","Toronto, ON",43.65481786700008,-79.50915975299995,False
+M4Y,Downtown Toronto,Church and Wellesley,Toronto,"Toronto, Ontario","Toronto, ON",43.666501648000065,-79.38134221999996,False
+M7Y,Business reply mail,East TorontoBusiness reply mailProcessing Centre969 Eastern Enclave of M4L,Toronto,"Toronto, Ontario","Toronto, ON",43.66209422500003,-79.32248785999997,False
+M8Y,Etobicoke,"Old Mill, Sunnylea, Humber Bay, Mimico, The Queensway",Toronto,"Toronto, Ontario","Toronto, ON",43.63310824700005,-79.49470230299994,False
+M8Z,Etobicoke,"Mimico, The Queensway",Toronto,"Toronto, Ontario","Toronto, ON",43.62507775300003,-79.52376889599998,False
+V1A,Kimberley,Kimberley,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.13455746699053,-123.14668200823456,False
+V2A,Penticton,Penticton,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.277837490580325,-123.05200728182871,False
+V3A,Langley Township,Langley City,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.08741900500007,-122.65265942499997,False
+V4A,Surrey,Surrey Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.1919839,-122.7980542,True
+V5A,Burnaby,"Government Road, Lake City, SFU, Burnaby Mountain",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26505536800005,-122.93620847099999,False
+V6A,Strathcona & co,"Strathcona, Chinatown, Downtown Eastside",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27790593800006,-123.09078136,False
+V7A,Richmond,Richmond South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.13147193800006,-123.11861938599998,False
+V8A,Powell River,Powell River,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28386578371552,-123.07033765057713,False
+V9A,Victoria,"Vic West, Esquimalt, Canadian Forces, MARPAC",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V1B,Vernon,Vernon East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.275416005065395,-123.0786469965608,True
+V2B,Kamloops,Kamloops Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27621582242037,-123.05467504502222,True
+V3B,Port Coquitlam,Port Coquitlam Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27238063800007,-122.75217921899997,False
+V4B,White Rock,White Rock,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.0166956,-122.8059393,False
+V5B,Burnaby,"Parkcrest-Aubrey, Ardingley-Sprott",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26753209900005,-122.972251073,False
+V6B,Downtown & co,"Downtown, Gastown, Harbour Centre, International Village, Victory Square, Yaletown",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.279319645000044,-123.11323249199995,False
+V7B,Richmond,"Sea Island, YVR",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.19485906600005,-123.17428526199996,False
+V8B,Squamish,Squamish,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.69555729903517,-123.1575292753411,False
+V9B,Victoria,"Highlands, Langford, View Royal",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V1C,Cranbrook,Cranbrook,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.15405801225177,-123.16660249753232,False
+V2C,Kamloops,Central and Southeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27621582242037,-123.05467504502222,True
+V3C,Port Coquitlam,Port Coquitlam South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.254413000000056,-122.73496399999999,False
+V4C,Delta,Delta Northeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V5C,Burnaby,"Heights, Willingdon Heights, West Central Valley",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27517974400007,-123.00605608599994,False
+V6C,Waterfront & co,"Waterfront, Coal Harbour, Canada Place",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28580006400006,-123.11674979199995,False
+V7C,Richmond,Richmond Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.16152431000006,-123.17165256599998,False
+V8C,Kitimat,Kitimat,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V9C,Victoria,"Colwood, Langford, Metchosin",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V1E,Salmon Arm,Salmon Arm,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26008135709756,-123.2366799036015,False
+V2E,Kamloops,South and West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27621582242037,-123.05467504502222,True
+V3E,Coquitlam,Coquitlam North North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.29679671900004,-122.72003070299996,False
+V4E,Delta,Delta East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V5E,Burnaby,"Lakeview-Mayfield, Richmond Park, Kingsway-Beresford",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28067484722818,-123.13383602389376,False
+V6E,West End & co,"West End, Davie Village",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.284810615000026,-123.12892637099998,False
+V7E,Richmond,Richmond Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.30310899592149,-123.03163600295392,False
+V8E,Whistler,Whistler,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.270548000000076,-123.14596899999998,False
+V9E,Victoria,"Highlands, Saanich",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V1G,Dawson Creek,Dawson Creek,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.22248894578163,-123.0488994554956,False
+V2G,Williams Lake,Williams Lake,Vancouver,"Vancouver, British Columbia","Vancouver, BC",54.00724851823874,-132.13116646629376,False
+V3G,Abbotsford,Abbotsford East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.194026524688695,-122.9904629402082,True
+V4G,Delta,East Central West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.13645943900008,-122.98651674699994,False
+V5G,Burnaby,"Cascade-Schou, Douglas-Gilpin",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24700518700007,-122.99696102599995,False
+V6G,West End & co,"West End, Stanley Park",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.29833544300004,-123.14105947599995,False
+V7G,North Vancouver (district municipality),North Vancouver  district municipality Outer East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.35945055500008,-122.93740659099996,False
+V8G,Terrace,Terrace,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26808300000005,-123.16673899999995,False
+V9G,Ladysmith,Ladysmith,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V1H,Vernon,Vernon West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.275416005065395,-123.0786469965608,True
+V2H,Kamloops,Kamloops North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27621582242037,-123.05467504502222,True
+V3H,Port Moody,Port Moody,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28157272000004,-122.87359250199995,False
+V5H,Burnaby,"Maywood, Marlborough, Oakalla, Windsor",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.229936879000036,-122.99704087899994,False
+V6H,Fairview & co,"Fairview, Granville Island, Shaughnessy",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.25595275000006,-123.13304349699996,False
+V7H,North Vancouver (district municipality),North Vancouver  district municipality Inner East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.32022251800004,-122.997915423,False
+V8H,Cobble Hill,"Mill Bay, Shawnigan Lake",Vancouver,"Vancouver, British Columbia","Vancouver, BC",48.68761800000004,-123.60396499999996,False
+V9H,Campbell River,Outskirts North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27925140971465,-123.08486272368688,False
+V1J,Fort St. John,Fort St. John,Vancouver,"Vancouver, British Columbia","Vancouver, BC",56.25242300000008,-120.846409,False
+V2J,Quesnel,Quesnel,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.25749390342438,-123.18009756799998,False
+V3J,Coquitlam,Coquitlam North South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26010222800005,-122.86168597099999,False
+V5J,Burnaby,"Suncrest, Sussex-Nelson, Clinton-Glenwood, Big Bend",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.20721182300008,-122.99634169699999,False
+V6J,Shaughnessy & co,"Shaughnessy, Kitsilano, Quilchena",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26008920000004,-123.14635789299996,False
+V7J,North Vancouver (district municipality),North Vancouver  district municipality East Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.32230333200005,-123.02803091699997,False
+V8J,Prince Rupert,Prince Rupert,Vancouver,"Vancouver, British Columbia","Vancouver, BC",54.312190000000044,-130.32708299999996,False
+V9J,Courtenay,Northern Outskirts,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26267218315627,-123.200021652997,True
+V1K,Merritt,Merritt,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.22206351497307,-122.98021499671984,False
+V2K,Prince George,Prince George North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",37.26137763976413,-77.27566397149191,True
+V3K,Coquitlam,Coquitlam South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.23738074500005,-122.85011187799995,False
+V4K,Delta,Delta Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.09239,-123.086744,False
+V5K,Hastings-Sunrise,Hastings-Sunrise,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.2899687,-123.0401161,False
+V6K,Kitsilano & co,"Kitsilano, Greektown",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.265096019000055,-123.16510141599997,False
+V7K,North Vancouver (district municipality),North Vancouver  district municipality North Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.36456254400008,-123.050110529,False
+V8K,Salt Spring Island,Salt Spring Island,Vancouver,"Vancouver, British Columbia","Vancouver, BC",48.818520000000035,-123.49060999999995,False
+V9K,Qualicum Beach,Qualicum Beach,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.21239686839251,-123.06269218763468,False
+V1L,Nelson,Nelson,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.275139523747974,-123.11641921814282,False
+V2L,Prince George,East Central South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",37.26137763976413,-77.27566397149191,True
+V3L,New Westminster,New Westminster Northeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.212041000000056,-122.92362199999997,False
+V4L,Delta,Delta Southeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V5L,Grandview-Woodland,Grandview-Woodland,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.279582669000035,-123.066871505,False
+V6L,Arbutus Ridge & co,"Arbutus Ridge, Dunbar-Southlands",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24994388200008,-123.16648938799995,False
+V7L,North Vancouver (city),North Vancouver  city South Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.317573680000066,-123.05960602799996,False
+V8L,Sidney,"North Saanich, YYJ",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24797496747246,-123.06270379247987,False
+V9L,Duncan,Duncan,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.33590851460393,-123.15551248525992,False
+V1M,Langley Township,Langley Township North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.16367400000007,-122.64143399999995,True
+V2M,Prince George,West Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",37.26137763976413,-77.27566397149191,True
+V3M,New Westminster,Annacis Island,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.16713223800008,-122.95187149199995,False
+V4M,Delta,Delta Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.02993790200003,-123.09521126899995,False
+V5M,Hastings-Sunrise & co,"Hastings-Sunrise, Renfrew-Collingwood",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.260681000000034,-123.03448499999996,False
+V6M,Shaughnessy & co,"Shaughnessy, Oakridge, Kerrisdale, Arbutus Ridge",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.234374966000075,-123.14523339699997,False
+V7M,North Vancouver (city),North Vancouver  city Southwest Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.32238458300003,-123.08193183999998,False
+V8M,Central Saanich,Central Saanich,Vancouver,"Vancouver, British Columbia","Vancouver, BC",48.59234979200005,-123.42158823199998,False
+V9M,Comox,Comox,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28113701021351,-123.12808748480309,False
+V1N,Castlegar,Castlegar,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V2N,Prince George,Prince George South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",37.26137763976413,-77.27566397149191,True
+V3N,Burnaby,"Big Bend, Stride Avenue, Edmonds, Cariboo-Armstrong",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.21598,-122.942355,False
+V4N,Surrey,Surrey Northeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.1919839,-122.7980542,True
+V5N,Grandview-Woodland & co,"Grandview-Woodland, Kensington-Cedar Cottage",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.25514178700007,-123.06674536799994,False
+V6N,Kerrisdale & co,"Kerrisdale, Dunbar-Southlands, Musqueam",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.23206040900004,-123.18931296199997,False
+V7N,North Vancouver (district municipality),North Vancouver  district municipality Northwest Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.34521142300008,-123.07188537699994,False
+V8N,Victoria,Saanich North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9N,Courtenay,Courtenay Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26267218315627,-123.200021652997,True
+V1P,Kelowna,Kelowna East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V2P,Chilliwack,Chilliwack Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.2632999,-123.1402605,True
+V4P,Surrey,Surrey South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.1919839,-122.7980542,True
+V5P,Kensington-Cedar Cottage & co,"Kensington-Cedar Cottage, Victoria-Fraserview",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.223033084000065,-123.06776649499994,False
+V6P,Kerrisdale & co,"Kerrisdale, Oakridge, Marpole",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.20405600000004,-123.13308999999998,False
+V7P,North Vancouver (city),North Vancouver  city Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.32187866100003,-123.11337578299998,False
+V8P,Victoria,"Saanich, UVic",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9P,Parksville,Parksville,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.31873200000007,-124.31502799999998,False
+V1R,Trail,Trail,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V2R,Chilliwack,Chilliwack West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.2632999,-123.1402605,True
+V3R,Surrey,Surrey North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.20848182100008,-122.828025519,False
+V4R,Maple Ridge,Maple Ridge Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.22945850742304,-123.15223897182497,True
+V5R,Renfrew-Collingwood,Renfrew-Collingwood,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.239375325000026,-123.04041288599996,False
+V6R,Kitsilano & co,"Kitsilano, West Point Grey, Jericho",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26606990700003,-123.19744453699997,False
+V7R,North Vancouver (district municipality),North Vancouver  district municipality Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.358327634000034,-123.09338856699998,False
+V8R,Victoria,"Oak Bay, Fernwood, Jubilee, Jubilee, Oaklands",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9R,Nanaimo,Nanaimo South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28322998931212,-123.05654739166603,True
+V1S,Kamloops,Kamloops Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27621582242037,-123.05467504502222,True
+V2S,Abbotsford,Abbotsford Southeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.194026524688695,-122.9904629402082,True
+V3S,Surrey,Upper East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.11723501500006,-122.75143385599995,False
+V4S,Mission,Mission West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.31740906774093,-123.0876438010993,True
+V5S,Killarney,Killarney,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.21715369800006,-123.03890393699999,False
+V6S,Dunbar-Southlands & co,"Dunbar-Southlands, Chaldecutt, University Endowment Lands",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.250990580000064,-123.21031457299995,False
+V7S,West Vancouver,West Vancouver North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.349415159000046,-123.15141534799994,False
+V8S,Victoria,"Oak Bay, Fairfield, Gonzales, Fernwood, Rockland",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9S,Nanaimo,Nanaimo Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.17815939282554,-123.94629673406479,False
+V1T,Vernon,Vernon Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.275416005065395,-123.0786469965608,True
+V2T,Abbotsford,Abbotsford Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.194026524688695,-122.9904629402082,True
+V3T,Surrey,Inner Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.189481028000046,-122.84502367199997,False
+V4T,West Kelowna,Westbank,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V5T,Mount Pleasant,Mount Pleasant,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26231567600007,-123.09204384799995,False
+V6T,UBC,UBC,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26840697100005,-123.22653270699999,False
+V7T,West Vancouver,West Vancouver Southeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.33177972100003,-123.14193679199997,False
+V8T,Victoria,"Burnside, Hillside-Quadra, North Park, West Oaklands, Rock Bay",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9T,Nanaimo,Wellington,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28322998931212,-123.05654739166603,True
+V1V,Kelowna,Kelowna North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V2V,Mission,Mission East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.31740906774093,-123.0876438010993,True
+V3V,Surrey,Outer Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.19009136300008,-122.89503813699997,False
+V4V,Winfield,Winfield,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.2775706,-123.1134435,False
+V5V,Kensington-Cedar Cottage & co,"Kensington-Cedar Cottage, Riley Park",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24810918000003,-123.09110307899999,False
+V6V,Richmond,Richmond Northeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.18239721900005,-123.03647956399999,False
+V7V,West Vancouver,West Vancouver South,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.33968359800008,-123.19101356399995,False
+V8V,Victoria,"Cook Street Village, Fairfield, Harris Green, Humboldt Valley, James Bay",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9V,Nanaimo,Nanaimo Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28322998931212,-123.05654739166603,True
+V1W,Kelowna,Kelowna Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V2W,Maple Ridge,Maple Ridge East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.22945850742304,-123.15223897182497,True
+V3W,Surrey,Upper West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.14105281700006,-122.85660489399999,False
+V4W,Langley Township,Langley Township East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.16367400000007,-122.64143399999995,True
+V5W,Riley Park & co,"Riley Park, Kensington-Cedar Cottage, Oakridge, Sunset",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.23259389800006,-123.09181017299994,False
+V6W,Richmond,Richmond Southeast,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.15017728500004,-123.06114262799997,False
+V7W,West Vancouver,West Vancouver West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.36251772400004,-123.26243775299997,False
+V8W,Victoria,"Downtown, Chinatown",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9W,Campbell River,Campbell River Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.966700077510005,-125.23090409232935,False
+V1X,Kelowna,East Central North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.959510316000035,-119.34569389099994,False
+V2X,Maple Ridge,Maple Ridge West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.22945850742304,-123.15223897182497,True
+V3X,Surrey,Lower West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.1919839,-122.7980542,True
+V4X,Abbotsford,Abbotsford West,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.194026524688695,-122.9904629402082,True
+V5X,Oakridge & co,"Oakridge, Marpole, Sunset",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.215152630000034,-123.09725216399994,False
+V6X,Richmond,Richmond North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.182756948000076,-123.11555057899994,False
+V7X,Bentall Centre,Bentall Centre,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.286532081000075,-123.11877199699995,False
+V8X,Victoria,Saanich North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9X,Nanaimo,Cedar,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28322998931212,-123.05654739166603,True
+V1Y,Kelowna,Kelowna Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V2Y,Langley Township,Langley Township Northwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.151312000000075,-122.65803299999999,False
+V3Y,Pitt Meadows,Pitt Meadows,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.3685128118417,-123.28039487502808,False
+V4Y,Armstrong,"[3], Spallumcheen, Enderby",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.280905000000075,-123.01076899999998,False
+V5Y,Mount Pleasant & co,"Mount Pleasant, Riley Park",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24738382000004,-123.11047467999998,False
+V6Y,Richmond,Richmond Central,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.169747,-123.142654,False
+V7Y,Pacific Centre,Pacific Centre,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28228278200004,-123.11951208399995,False
+V8Y,Victoria,Saanich North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9Y,Port Alberni,Port Alberni,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.286319681611545,-123.12524110266389,False
+V1Z,West Kelowna,West Kelowna East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27431500024507,-123.04273605135955,True
+V2Z,Langley Township,Langley Township Southwest,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.16367400000007,-122.64143399999995,True
+V3Z,Surrey,Lower East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.1919839,-122.7980542,True
+V4Z,Chilliwack,Chilliwack East,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.2632999,-123.1402605,True
+V5Z,Fairview & co,"Fairview, South Cambie",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.24746913200005,-123.12100540799997,False
+V6Z,Downtown,Downtown North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.275150849000056,-123.13049333799995,False
+V7Z,Sechelt,Halfmoon Bay,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.474966,-123.754578,False
+V8Z,Victoria,Saanich North,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28258152975446,-123.06555554773207,True
+V9Z,Sooke,Sooke,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V0A,Golden,"Brisco, Edgewater, Field, Golden, Harrogate, Invermere, Parson, Radium Hot Springs, Spillimacheen, Panorama",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.25769400000007,-123.18534299999999,False
+V0B,Boswell,"Canal Flats, Canyon, Crawford Bay, Creston, Elkford, Erickson, Fairmont Hot Springs, Fernie, Fort Steele, Grasmere, Gray Creek, Jaffray, Kingsgate, Kitchener, Kootenay Bay, Moyie, Riondel, Sirdar, Skookumchuck, Sparwood, Ta Ta Creek, Wardner, Wasa, Windermere, Wynndel, Yahk, Creston",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.08156463109537,-116.09147661158282,False
+V0C,Arras,"Baldonnel, Jade City, Cecil Lake, Charlie Lake, Chetwynd, Clayhurst, Dease Lake, Farmington, Fort Nelson, Goodlow, Groundbirch, Hudson's Hope, Lower Post, Moberly Lake, Montney, Muncho Lake, North Pine, Pink Mountain, Pouce Coupe, Progress, Rolla, Rose Prairie, Sunset Prairie, Taylor, Tomslake, Wonowon, Buick, Prespatou, Altona, Prophet River, Tumbler Ridge, Toad River, Good Hope Lake",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V0E,Avola,"Barriere, Blind Bay, Blue River, Canoe, Chase, Clearwater, Darfield, Douglas Lake, Eagle Bay, Falkland, Grindrod, Heffley Creek, Knutsford, Little Fort, Louis Creek, Lumby, McLure, Malakwa, Mara, Mica Creek, Monte Creek, Monte Lake, Pritchard, Quilchena, Revelstoke, Sicamous, Sorrento, Tappen, Valemount, Vavenby, Westwold, Pinantan Lake, Scotch Creek, Revelstoke, Sorrento, Clearwater, Sun Peaks",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V0G,Ainsworth Hot Springs,"Argenta, Balfour, Burton, Genelle, Crescent Valley, Edgewood, Fauquier, Fruitvale, Kaslo, Meadow Creek, Montrose, Nakusp, New Denver, Procter, Robson, Rossland, Salmo, Silverton, Slocan, Slocan Park, South Slocan, Winlaw, Ymir",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.996952484360406,-117.36570150934425,False
+V0H,Beaverdell,"Bridesville, Christina Lake, Grand Forks, Greenwood, Kaleden, Midway, Naramata, Okanagan Falls, Oliver, Osoyoos, Peachland, Rock Creek, Summerland, Westbridge, Osoyoos, Grand Forks",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.27887400000003,-123.12305999999995,False
+V0J,Aiyansh,"Burns Lake, Cedarvale, Dome Creek, Dunster, Iskut, Endako, Fort Fraser, Fort St. James, Francois Lake, Fraser Lake, Germansen Landing, Granisle, Lax̱g̱altsʼap, Hazelton, Houston, Kitwanga, Longworth, Mackenzie, McBride, McLeod Lake, Manson Creek, New Hazelton, Penny, Smithers, Southbank, Summit Lake, Takla Landing, Telegraph Creek, Telkwa, Topley, Upper Fraser, Vanderhoof, Ware, Willow River, Crescent Spur, Bear Lake, Nass Camp, Sinclair Mills, Tsay Keh Dene, Meziadin Lake, Gitwinksihlkw, Smithers",Vancouver,"Vancouver, British Columbia","Vancouver, BC",54.774121763699235,-127.1636201730196,False
+V0K,Lone Butte,"Ashcroft, Barkerville, Boston Bar, Bridge Lake, Buffalo Creek, Cache Creek, Canim Lake, Clinton, Eagle Creek, Forest Grove, Gang Ranch, Gold Bridge, Hixon, Lac La Hache, Lillooet, Logan Lake, Lone Butte, Lower Nicola, Lytton, 100 Mile House, 150 Mile House, Pavilion, Savona, 70 Mile House, Spences Bridge, Walhachin, Wells, Yale, 108 Mile Ranch",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.28020150600011,-123.13576099143167,False
+V0L,Alexis Creek,"Alkali Lake, Anahim Lake, Big Lake Ranch, Chilanko Forks, Dog Creek, Hanceville, Horsefly, Kleena Kleene, Likely, McLeese Lake, Nimpo Lake, Redstone, Riske Creek, Tatla Lake, Tatlayoko Lake, Nemaiah Valley",Vancouver,"Vancouver, British Columbia","Vancouver, BC",52.08298600000006,-123.27799199999998,False
+V0M,Agassiz,"Deroche, Dewdney, Harrison Hot Springs, Harrison Mills, Lake Errock",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V0N,Alert Bay,"Whistler, Blubber Bay, Bowen Island, Brackendale, Britannia Beach, Coal Harbour, D'Arcy, Dawsons Landing, Egmont, Galiano Island, Garden Bay, Garibaldi Highlands, Gibsons, Gillies Bay, Holberg, Kingcome Inlet, Lions Bay, Lund, Madeira Park, Pender Harbour, Mayne Island, Mount Currie, Pemberton, Pender Island, Port Alice, Port Hardy, Port McNeill, Port Mellon, Quatsino, Roberts Creek, Saturna, Sechelt, Seton Portage, Shalalth, Sointula, Telegraph Cove, Van Anda, Winter Harbour, Woss, Gibsons, Furry Creek",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+V0P,Blind Channel,"Gold River, Heriot Bay, Kyuquot, Mansons Landing, Minstrel Island, Quathiaski Cove, Refuge Cove, Sayward, Simoom Sound, Squirrel Cove, Stuart Island, Surge Narrows, Tahsis, Whaletown, Zeballos",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.94069281030186,-124.81612165547348,False
+V0R,Ahousat,"Bamfield, Bowser, Cassidy, Chemainus, Coombs, Cowichan Bay, Crofton, Cumberland, Denman Island, Errington, Fanny Bay, Gabriola, Honeymoon Bay, Hornby Island, Kildonan, Koksilah, Lake Cowichan, Lantzville, Lasqueti, Lazo, Malahat, Merville, Mesachie Lake, Royston, Thetis Island, Tofino, Ucluelet, Union Bay, Westholme, Youbou, Chemainus, Penelakut Island",Vancouver,"Vancouver, British Columbia","Vancouver, BC",48.88481875400004,-124.30125595199996,False
+V0S,Port Renfrew,Port Renfrew,Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.258890000000065,-123.04517999999996,False
+V0T,Denny Island,"Bella Coola, Hagensborg, Klemtu, Masset, Ocean Falls, Port Clements, Daajing Giids, Sandspit, Stewart, Tlell, Bella Bella, Haisla",Vancouver,"Vancouver, British Columbia","Vancouver, BC",55.9380449,-129.9923419,False
+V0V,Hartley Bay,"Kincolith, Kitkatla, Oona River, Port Edward, Lax Kw'alaams",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.20614150315809,-123.03985349509858,False
+V0W,Fraser,"Atlin, Atlin",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.245325457785576,-123.09021707677523,False
+V0X,Cawston,"Coalmont, Hedley, Hope, Keremeos, East Gate, Princeton, Rosedale, Tulameen, Princeton",Vancouver,"Vancouver, British Columbia","Vancouver, BC",49.26163600000007,-123.11334999999997,True
+75001,Le Louvre,"Saint-Germain-l'Auxerrois, Les Halles, Le Palais-Royal, La Place-Vendôme",Paris,"Paris, France","Paris, France",48.8604353,2.341665,False
+75002,La Bourse,"Gaillon, Vivienne, Le Mail, Bonne-Nouvelle",Paris,"Paris, France","Paris, France",48.866535,2.3401649,False
+75003,Le Temple,"Les Arts-et-Métiers, Les Enfants-Rouges, Les Archives, Saint-Avoye",Paris,"Paris, France","Paris, France",48.8637018,2.3610909,False
+75004,L'Hôtel-de-Ville,"Saint-Merri, Saint-Gervais, L'Arsenal, Notre-Dame",Paris,"Paris, France","Paris, France",48.856895,2.3508487,False
+75005,Le Panthéon,"Saint-Victor, Le Jardin-des-Plantes, Le Val-de-Grâce, La Sorbonne",Paris,"Paris, France","Paris, France",48.8454035,2.3448954,False
+75006,Le Luxembourg,"La Monnaie, L'Odéon, Notre-Dame-des-Champs, Saint-Germain-des-Prés",Paris,"Paris, France","Paris, France",48.8505693,2.3329185,False
+75007,Le Palais-Bourbon,"Saint-Thomas-d'Aquin, Les Invalides, L'École-Militaire, Le Gros-Caillou",Paris,"Paris, France","Paris, France",48.857984,2.3151098,False
+75008,L'Élysée,"Les Champs-Élysées, Le Faubourg-du-Roule, La Madeleine, L'Europe",Paris,"Paris, France","Paris, France",48.8777144,2.3165467,False
+75009,L'Opéra,"Saint-Georges, La Chaussée-d'Antin, Le Faubourg-Montmartre, Rochechouart",Paris,"Paris, France","Paris, France",48.8728504,2.3399171,False
+75010,L'Enclos-Saint-Laurent,"Saint-Vincent-de-Paul, La Porte-Saint-Denis, La Porte-Saint-Martin, L'Hôpital-Saint-Louis",Paris,"Paris, France","Paris, France",48.8719307,2.35648,False
+75011,Popincourt,"La Folie-Méricourt, Saint-Ambroise, La Roquette, Sainte-Marguerite",Paris,"Paris, France","Paris, France",48.8593133,2.3778099,False
+75012,Reuilly,"Le Bel-Air, Picpus, Bercy, Les Quinze-Vingts",Paris,"Paris, France","Paris, France",48.8407982,2.3885786,False
+75013,Les Gobelins,"La Salpêtrière, La Gare, La Maison-Blanche, Croulebarbe",Paris,"Paris, France","Paris, France",48.8319164,2.3558551,False
+75014,L'Observatoire,"Le Montparnasse, 2, Le Petit-Montrouge, La Plaisance",Paris,"Paris, France","Paris, France",48.8327638,2.324743,False
+75015,Vaugirard,"Saint-Lambert, Necker, Grenelle, Javel",Paris,"Paris, France","Paris, France",48.8419995,2.2995619,False
+75016,Passy,"Auteuil, La Muette, La Porte-Dauphine, 3",Paris,"Paris, France","Paris, France",48.8551129,2.2554631,False
+75017,Les Batignolles-Monceau,"Les Ternes, La Plaine-Monceau, Batignolles, Les Épinettes",Paris,"Paris, France","Paris, France",48.8827026,2.3197241,False
+75018,La Butte-Montmartre,"Les Grandes-Carrières, Clignancourt, La Goutte-d'Or, La Chapelle",Paris,"Paris, France","Paris, France",48.8924007,2.3449899,False
+75019,Les Buttes-Chaumont,"La Villette, Le Pont-de-Flandre, Amérique, Le Combat",Paris,"Paris, France","Paris, France",48.8825725,2.3826296,False
+75020,Ménilmontant,"Belleville, Saint-Fargeau, Le Père-Lachaise, Charonne",Paris,"Paris, France","Paris, France",48.8648573,2.3985509,False
